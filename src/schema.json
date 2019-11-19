@@ -1,0 +1,33 @@
+{
+	"title": "Books Schema",
+	"required": [
+		"Title",
+		"Subtitle",
+		"Autor",
+		"Publisher",
+		"Year/Edition"
+	],
+	"properties": {
+		"Title": {
+			"type": "string",
+			"pattern": "^(.*)$"
+		},
+		"Subtitle": {
+			"type": "string",
+			"pattern": "^(.*)$"
+		},
+		"Autor": {
+			"type": "string"
+		},
+		"Publisher": {
+			"type": "string"
+		},
+		"Year/Edition": {
+			"type": "string",
+			"pattern": "^(.*)$"
+		},
+		"Read in": {
+			"type": "integer"
+		}
+	}
+}
