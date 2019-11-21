@@ -1,6 +1,10 @@
-[
+
    {
-      "books":[
+        "autor":"Bruno Ribeiro",
+        "student":"2017138",
+        "description":"This is my actual list of books which I keep track since 2013.",
+        "language":"Portuguese-Brazil",
+         "books":[
          {
             "Title":"20000 Leagues Under The Sea",
             "Subtitle":"20000 Leagues Under The Sea",
@@ -1291,4 +1295,3 @@
          }
       ]
    }
-]
