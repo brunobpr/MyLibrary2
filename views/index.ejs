@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+  <script>
+
+  </script>
+    <h1><%= data.name %></h1>
+    <table style="border: black 1px solid">
+      <thead>
+          <th>Title</th>
+          <th>Subtitle</th>
+          <th>Autor</th>
+          <th>Publisher</th>
+      </thead>
+      <tbody >
+        <% data.books.forEach(function (item){ %>
+            <tr>
+              <td><%= item.Title %></td>
+              <td><%= item.Subtitle %></td>
+              <td><%= item.Autor %></td>
+              <td><%= item.Publisher %></td>
+            <% });%>
+            </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
