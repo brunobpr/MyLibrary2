@@ -4,6 +4,7 @@
         "autor":"Bruno Ribeiro",
         "student":"2017138",
         "description":"This is my actual list of books which I keep track since 2013.",
+        "one_drive_url":"https://1drv.ms/x/s!AreC_jhDXjcqgSgt70DMCRqVEskL?e=u05K55",
         "language":"Portuguese-Brazil",
          "books":[
          {
@@ -12,7 +13,7 @@
             "Autor":"Jules Verne",
             "Publisher":"Collins Classics",
             "Year/Edition":"2010/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"2001: Uma Odisseia No Espaço",
@@ -20,7 +21,7 @@
             "Autor":"Arthur C. Clarke",
             "Publisher":"Aleph",
             "Year/Edition":"2013/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"A Arte da Guerra",
@@ -28,7 +29,7 @@
             "Autor":"Sun Tzu",
             "Publisher":"Hunter Books",
             "Year/Edition":"2011/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"A Batalha do Apocalipse",
@@ -36,7 +37,7 @@
             "Autor":"Eduardo Spohr",
             "Publisher":"Verus",
             "Year/Edition":"2011/11ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"A Cabana",
@@ -44,7 +45,7 @@
             "Autor":"William P. Young",
             "Publisher":"Sextante",
             "Year/Edition":"2008/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"A Crônica do Matador do Rei",
@@ -52,7 +53,7 @@
             "Autor":"Patrick Rothfuss",
             "Publisher":"Arqueiro",
             "Year/Edition":"2009/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"A Crônica do Matador do Rei",
@@ -60,7 +61,7 @@
             "Autor":"Patrick Rothfuss",
             "Publisher":"Arqueiro",
             "Year/Edition":"2011/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"A Ilha do Tesouro",
@@ -68,7 +69,7 @@
             "Autor":"R. L. Stevenson",
             "Publisher":"Abril Cultura",
             "Year/Edition":"1971/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"A Intimação",
@@ -76,7 +77,7 @@
             "Autor":"John Grisham",
             "Publisher":"Rocco",
             "Year/Edition":"2002/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"A Janela de Overton",
@@ -84,7 +85,7 @@
             "Autor":"Glenn Beck",
             "Publisher":"Novo Conceito",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"A Mão Esquerda de Deus",
@@ -92,7 +93,7 @@
             "Autor":"Paul Hoffman",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2013/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"A Mão Esquerda de Deus",
@@ -100,7 +101,7 @@
             "Autor":"Paul Hoffman ",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"A Mão Esquerda de Deus",
@@ -108,7 +109,7 @@
             "Autor":"Paul Hoffman ",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"A Revolta de Atlas",
@@ -116,7 +117,7 @@
             "Autor":"Ayn Rand",
             "Publisher":"Arqueiro",
             "Year/Edition":"2010/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"A Revolta de Atlas",
@@ -124,7 +125,7 @@
             "Autor":"Ayn Rand",
             "Publisher":"Arqueiro",
             "Year/Edition":"2010/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"A Revolta de Atlas",
@@ -132,7 +133,7 @@
             "Autor":"Ayn Rand",
             "Publisher":"Arqueiro",
             "Year/Edition":"2010/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"A Revolução dos Bichos",
@@ -140,7 +141,7 @@
             "Autor":"George Orwell",
             "Publisher":"Companhia das Letras",
             "Year/Edition":"2007/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"A Torre Negra ",
@@ -148,7 +149,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"A Torre Negra ",
@@ -156,7 +157,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"A Torre Negra ",
@@ -164,7 +165,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"A Torre Negra ",
@@ -172,7 +173,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"A Torre Negra ",
@@ -180,7 +181,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"A Torre Negra ",
@@ -188,7 +189,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"A Torre Negra ",
@@ -196,7 +197,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Around the World in Eighty Days ",
@@ -204,7 +205,7 @@
             "Autor":"Jules Verne",
             "Publisher":"Wordsworth ",
             "Year/Edition":"2010/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"As Cavernas de Aço",
@@ -212,7 +213,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2013/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"As Crônicas de Gelo e Fogo",
@@ -220,7 +221,7 @@
             "Autor":"George R. R. Martin",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2010/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"As Crônicas de Gelo e Fogo",
@@ -228,7 +229,7 @@
             "Autor":"George R. R. Martin",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2012/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"As Crônicas de Gelo e Fogo",
@@ -236,7 +237,7 @@
             "Autor":"George R. R. Martin",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2012/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"As Crônicas de Gelo e Fogo",
@@ -244,7 +245,7 @@
             "Autor":"George R. R. Martin",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2011/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"As Crônicas de Gelo e Fogo",
@@ -252,7 +253,7 @@
             "Autor":"George R. R. Martin",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2011/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"As Crônicas dos Kane",
@@ -260,7 +261,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2012/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"As Crônicas dos Kane",
@@ -268,7 +269,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2012/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"As Crônicas dos Kane",
@@ -276,7 +277,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"As Crônicas dos Kane",
@@ -284,7 +285,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"As Crônicas Marcianas",
@@ -292,7 +293,7 @@
             "Autor":"Ray Bradbury",
             "Publisher":"Editora Globo",
             "Year/Edition":"2006/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"As Peças Infernais",
@@ -300,7 +301,7 @@
             "Autor":"Cassandra Clare",
             "Publisher":"Galera Record",
             "Year/Edition":"2012/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Assassin's Creed ",
@@ -308,7 +309,7 @@
             "Autor":"Oliver Bowden",
             "Publisher":"Galera Record",
             "Year/Edition":"2012/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Assassin's Creed ",
@@ -316,7 +317,7 @@
             "Autor":"Oliver Bowden",
             "Publisher":"Galera Record",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Cemitérios de Dragões",
@@ -324,7 +325,7 @@
             "Autor":"Raphael Draccon",
             "Publisher":"Rocco",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Clube da Luta",
@@ -332,7 +333,7 @@
             "Autor":"Chuck Palahniuk",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2012/6ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Coisas Frágeis",
@@ -340,7 +341,7 @@
             "Autor":"Neil Gaiman",
             "Publisher":"Conrad",
             "Year/Edition":"2010/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Como Treinar o Seu Dragão - 01 ",
@@ -348,7 +349,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Como Treinar o Seu Dragão - 02",
@@ -356,7 +357,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Como Treinar o Seu Dragão - 03",
@@ -364,7 +365,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Como Treinar o Seu Dragão - 04",
@@ -372,7 +373,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Como Treinar o Seu Dragão - 05",
@@ -380,7 +381,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2011/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Como Treinar o Seu Dragão - 06",
@@ -388,7 +389,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2011/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Como Treinar o Seu Dragão - 09",
@@ -396,7 +397,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2013/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Como Treinar o Seu Dragão - 10",
@@ -404,7 +405,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2013/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Como Treinar o Seu Dragão - 07",
@@ -412,7 +413,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2011/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Como Treinar o Seu Dragão - Livro Extra 1",
@@ -420,7 +421,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2012/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Como Treinar o Seu Dragão - 08",
@@ -428,7 +429,7 @@
             "Autor":"Cressida Cowell",
             "Publisher":"Intrínseca",
             "Year/Edition":"2012/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Contos Para Crianças Impossíveis",
@@ -436,7 +437,7 @@
             "Autor":"Jacques Prévert",
             "Publisher":"Cosac & Naify",
             "Year/Edition":"2007/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Conversando Com Espíritos",
@@ -444,7 +445,7 @@
             "Autor":"James Van Praagh",
             "Publisher":"Sextante",
             "Year/Edition":"2006/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Deuses Americanos ",
@@ -452,7 +453,7 @@
             "Autor":"Neil Gaiman",
             "Publisher":"Conrad",
             "Year/Edition":"2011/1º",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Dragões de Éter",
@@ -460,7 +461,7 @@
             "Autor":"Raphael Draccon",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2010/2ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Dragões de Éter",
@@ -468,7 +469,7 @@
             "Autor":"Raphael Draccon",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2010/2ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Dragões de Éter",
@@ -476,7 +477,7 @@
             "Autor":"Raphael Draccon",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2010/2ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Espíritos de Gelo",
@@ -484,7 +485,7 @@
             "Autor":"Raphael Draccon",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2011/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Espíritos Entre Nós",
@@ -492,7 +493,7 @@
             "Autor":"James Van Praagh",
             "Publisher":"Sextante",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Eu",
@@ -500,7 +501,7 @@
             "Autor":"Eu",
             "Publisher":" Robô",
             "Year/Edition":"Isaac Asimov",
-            "Read in":"Aleph"
+            "ReadYear":"Aleph"
          },
          {
             "Title":"Fahrenheit 451",
@@ -508,7 +509,7 @@
             "Autor":"Ray Bradbury",
             "Publisher":"Editora Globo",
             "Year/Edition":"2012/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Fernão Capelo Gaivota",
@@ -516,7 +517,7 @@
             "Autor":"Richard Bach",
             "Publisher":"Nórdica",
             "Year/Edition":"1970/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Filhos do Éden",
@@ -524,7 +525,7 @@
             "Autor":"Eduardo Spohr",
             "Publisher":"Verus",
             "Year/Edition":"2011/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Filhos do Éden",
@@ -532,7 +533,7 @@
             "Autor":"Eduardo Spohr",
             "Publisher":"Verus",
             "Year/Edition":"2013/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Fortaleza Digital",
@@ -540,7 +541,7 @@
             "Autor":"Dan Brown",
             "Publisher":"Arqueiro",
             "Year/Edition":"2008/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"From the Earth to the Moon",
@@ -548,7 +549,7 @@
             "Autor":"Jules Verne",
             "Publisher":"Wordsworth ",
             "Year/Edition":"2011/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Fundação",
@@ -556,7 +557,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2009/1ª",
-            "Read in":"2015"
+            "ReadYear":"2015"
          },
          {
             "Title":"Fundação",
@@ -564,7 +565,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2009/1ª",
-            "Read in":"2015"
+            "ReadYear":"2015"
          },
          {
             "Title":"Fundação",
@@ -572,7 +573,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2009/1ª",
-            "Read in":"2015"
+            "ReadYear":"2015"
          },
          {
             "Title":"Fundação",
@@ -580,7 +581,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Fundação",
@@ -588,7 +589,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Fundação",
@@ -596,7 +597,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Fundação",
@@ -604,7 +605,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Harry Potter",
@@ -612,7 +613,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Rocco",
             "Year/Edition":"2012/4ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Harry Potter",
@@ -620,7 +621,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Presença",
             "Year/Edition":"2001/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Harry Potter",
@@ -628,7 +629,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Rocco",
             "Year/Edition":"2012/4ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Harry Potter",
@@ -636,7 +637,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Rocco",
             "Year/Edition":"2012/4ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Harry Potter",
@@ -644,7 +645,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Rocco",
             "Year/Edition":"2012/4ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Harry Potter",
@@ -652,7 +653,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Rocco",
             "Year/Edition":"2012/4ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Harry Potter",
@@ -660,7 +661,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Rocco",
             "Year/Edition":"2012/4ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Harry Potter ",
@@ -668,7 +669,7 @@
             "Autor":"J. K. Rowling",
             "Publisher":"Rocco",
             "Year/Edition":"2012/4ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Heresia",
@@ -676,7 +677,7 @@
             "Autor":"S. J. Parris",
             "Publisher":"Arqueiro",
             "Year/Edition":"2011/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Hush",
@@ -684,7 +685,7 @@
             "Autor":"Sussuro",
             "Publisher":"Becca Fitzpatrick",
             "Year/Edition":"Intrínseca",
-            "Read in":"2010/1ª"
+            "ReadYear":"2010/1ª"
          },
          {
             "Title":"Hush",
@@ -692,7 +693,7 @@
             "Autor":"Crescendo",
             "Publisher":"Becca Fitzpatrick",
             "Year/Edition":"Intrínseca",
-            "Read in":"2011/1ª"
+            "ReadYear":"2011/1ª"
          },
          {
             "Title":"Hush",
@@ -700,7 +701,7 @@
             "Autor":"Silêncio",
             "Publisher":"Becca Fitzpatrick",
             "Year/Edition":"Intrínseca",
-            "Read in":"2012/1ª"
+            "ReadYear":"2012/1ª"
          },
          {
             "Title":"Insônia",
@@ -708,7 +709,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2013/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Jogador Nº1",
@@ -716,7 +717,7 @@
             "Autor":"Ernest Cline",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Jogos Vorazes",
@@ -724,7 +725,7 @@
             "Autor":"Suzanne Collins",
             "Publisher":"Rocco",
             "Year/Edition":"2010/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Jogos Vorazes",
@@ -732,7 +733,7 @@
             "Autor":"Suzanne Collins",
             "Publisher":"Rocco",
             "Year/Edition":"2010/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Jogos Vorazes",
@@ -740,7 +741,7 @@
             "Autor":"Suzanne Collins",
             "Publisher":"Rocco",
             "Year/Edition":"2010/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Laranja Mecânica",
@@ -748,7 +749,7 @@
             "Autor":"Anthony Burgess",
             "Publisher":"Aleph",
             "Year/Edition":"2004/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Misery",
@@ -756,7 +757,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Mistborn: Nascidos da Bruma",
@@ -764,7 +765,7 @@
             "Autor":"Brandon Sanderson",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2014/1ª",
-            "Read in":"2015"
+            "ReadYear":"2015"
          },
          {
             "Title":"Mortal Engines",
@@ -772,7 +773,7 @@
             "Autor":"Philip Reeve",
             "Publisher":" Novo Século",
             "Year/Edition":"2011/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Caçador de Pipas",
@@ -780,7 +781,7 @@
             "Autor":"Khaled Hosseini",
             "Publisher":"Nova Fronteira",
             "Year/Edition":"2005/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"O Chamado do Cuco",
@@ -788,7 +789,7 @@
             "Autor":"Robert Galbraith",
             "Publisher":"Rocco",
             "Year/Edition":"2013/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Clássico Guia de Estratégia",
@@ -796,7 +797,7 @@
             "Autor":"Myamoto Musashi",
             "Publisher":"Hunter Books",
             "Year/Edition":"2011/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Código Da Vinci",
@@ -804,7 +805,7 @@
             "Autor":"Dan Brown",
             "Publisher":"Arqueiro",
             "Year/Edition":"2012/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Colecionador de Lágrimas",
@@ -812,7 +813,7 @@
             "Autor":"Augusto Cury",
             "Publisher":"Planeta do Brasil",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"O Corretor",
@@ -820,7 +821,7 @@
             "Autor":"John Grisham",
             "Publisher":"Rocco",
             "Year/Edition":"2005/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"O Diário de um Mago",
@@ -828,7 +829,7 @@
             "Autor":"Paulo Coelho",
             "Publisher":"Rocco",
             "Year/Edition":"1992/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"O Guia dos Curiosos",
@@ -836,7 +837,7 @@
             "Autor":"Marcelo Duarte",
             "Publisher":"Panda Books",
             "Year/Edition":"2007/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Guia dos Mochileiros das Galáxias",
@@ -844,7 +845,7 @@
             "Autor":"Douglas Adams",
             "Publisher":"Arqueiro",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"O Guia dos Mochileiros das Galáxias",
@@ -852,7 +853,7 @@
             "Autor":" O Universo e Tudo Mais",
             "Publisher":"Douglas Adams",
             "Year/Edition":"Arqueiro",
-            "Read in":"2010/1ª"
+            "ReadYear":"2010/1ª"
          },
          {
             "Title":"O Guia dos Mochileiros das Galáxias",
@@ -860,7 +861,7 @@
             "Autor":"Douglas Adams",
             "Publisher":"Arqueiro",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"O Guia dos Mochileiros das Galáxias",
@@ -868,7 +869,7 @@
             "Autor":"Douglas Adams",
             "Publisher":"Arqueiro",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"O Guia dos Mochileiros das Galáxias",
@@ -876,7 +877,7 @@
             "Autor":" E Obrigado Pelos Peixes!",
             "Publisher":"Douglas Adams",
             "Year/Edition":"Arqueiro",
-            "Read in":"2010/1ª"
+            "ReadYear":"2010/1ª"
          },
          {
             "Title":"O Hobbit",
@@ -884,7 +885,7 @@
             "Autor":"J. R. R. Tolkien",
             "Publisher":"WMF",
             "Year/Edition":"2011/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"O Iluminado",
@@ -892,7 +893,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2012/1ª",
-            "Read in":"2015"
+            "ReadYear":"2015"
          },
          {
             "Title":"O Iluminado",
@@ -900,7 +901,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Livro de Ouro da Mitologia",
@@ -908,7 +909,7 @@
             "Autor":"Thomas Bulfinch",
             "Publisher":"Ediouro",
             "Year/Edition":"2011/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Livro dos Cinco Anéis",
@@ -916,7 +917,7 @@
             "Autor":"Miyamoto Musashi",
             "Publisher":"Hunter Books",
             "Year/Edition":"2011/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Mistério da Estrela",
@@ -924,7 +925,7 @@
             "Autor":"Neil Gaiman",
             "Publisher":"Rocco",
             "Year/Edition":"2008/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Mundo do Exterminador",
@@ -932,7 +933,7 @@
             "Autor":"Orson Scott Card...",
             "Publisher":"Intrínseca",
             "Year/Edition":"2013/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Oceano no Fim do Caminho",
@@ -940,7 +941,7 @@
             "Autor":"Neil Gaiman",
             "Publisher":"Intrínseca",
             "Year/Edition":"2013/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Pequeno Príncipe",
@@ -948,7 +949,7 @@
             "Autor":"Antoine de Saint-Exupéry",
             "Publisher":"Agir",
             "Year/Edition":"2013/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Principe ",
@@ -956,7 +957,7 @@
             "Autor":"Nicolau Maquiavel",
             "Publisher":"Hunter Books",
             "Year/Edition":"2011/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Rei das Fraudes",
@@ -964,7 +965,7 @@
             "Autor":"John Grisham",
             "Publisher":"Rocco",
             "Year/Edition":"2003/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Semeador de Ideias",
@@ -972,7 +973,7 @@
             "Autor":"Augusto Cury",
             "Publisher":"Academia",
             "Year/Edition":"2010/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"O Senhor dos Anéis",
@@ -980,7 +981,7 @@
             "Autor":"J. R. R. Tolkien",
             "Publisher":"Martins Fontes",
             "Year/Edition":"2003/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"O Silmarillion",
@@ -988,7 +989,7 @@
             "Autor":"J. R. R. Tolkien",
             "Publisher":"WMF",
             "Year/Edition":"2011/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"O Símbolo Perdido",
@@ -996,7 +997,7 @@
             "Autor":"Dan Brown",
             "Publisher":"Sextante",
             "Year/Edition":"2009/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"O Vendedor de Sonhos",
@@ -1004,7 +1005,7 @@
             "Autor":"Augusto Cury",
             "Publisher":"Academia",
             "Year/Edition":"2008/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"O Vendedor de Sonhos",
@@ -1012,7 +1013,7 @@
             "Autor":"Augusto Cury",
             "Publisher":"Academia",
             "Year/Edition":"2009/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"O Vento Pela Fechadura",
@@ -1020,7 +1021,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2013/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Olimpo em Guerra",
@@ -1028,7 +1029,7 @@
             "Autor":"Kate O'Hearn",
             "Publisher":"LeYa Brasil",
             "Year/Edition":"2011/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Os Goonies",
@@ -1036,7 +1037,7 @@
             "Autor":"Steven Spielberg",
             "Publisher":"Darkside",
             "Year/Edition":"2012/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Os Herois do Olimpo",
@@ -1044,7 +1045,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2012/1ª",
-            "Read in":"2012"
+            "ReadYear":"2012"
          },
          {
             "Title":"Os Herois do Olimpo",
@@ -1052,7 +1053,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Os Herois do Olimpo",
@@ -1060,7 +1061,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2013/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Os Herois do Olimpo",
@@ -1068,7 +1069,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2013/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Os Instrumentos Mortais",
@@ -1076,7 +1077,7 @@
             "Autor":"Cassandra Clare",
             "Publisher":"Galera Record",
             "Year/Edition":"2012/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Os Instrumentos Mortais",
@@ -1084,7 +1085,7 @@
             "Autor":"Cassandra Clare",
             "Publisher":"Galera Record",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Os Instrumentos Mortais",
@@ -1092,7 +1093,7 @@
             "Autor":"Cassandra Clare",
             "Publisher":"Galera Record",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Os Instrumentos Mortais",
@@ -1100,7 +1101,7 @@
             "Autor":"Cassandra Clare",
             "Publisher":"Galera Record",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Os Pilares da Terra",
@@ -1108,7 +1109,7 @@
             "Autor":"Ken Follett",
             "Publisher":"Rocco",
             "Year/Edition":"2012/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Os Próprios Deuses",
@@ -1116,7 +1117,7 @@
             "Autor":"Isaac Asimov",
             "Publisher":"Aleph",
             "Year/Edition":"2010/1ª",
-            "Read in":"2014"
+            "ReadYear":"2014"
          },
          {
             "Title":"Percy Jackson & os Olimpianos",
@@ -1124,7 +1125,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2009/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Percy Jackson & os Olimpianos",
@@ -1132,7 +1133,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2009/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Percy Jackson & os Olimpianos",
@@ -1140,7 +1141,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Percy Jackson & os Olimpianos",
@@ -1148,7 +1149,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Percy Jackson & os Olimpianos",
@@ -1156,7 +1157,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2010/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Percy Jackson & os Olimpianos",
@@ -1164,7 +1165,7 @@
             "Autor":"Rick Riodan",
             "Publisher":"Intrínseca",
             "Year/Edition":"2008/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Pesadelos e Paisagens Noturnas - 1",
@@ -1172,7 +1173,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2013/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Pesadelos e Paisagens Noturnas - 2",
@@ -1180,7 +1181,7 @@
             "Autor":"Stephen King",
             "Publisher":"Suma das Letras",
             "Year/Edition":"2013/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Pride and Prejudice",
@@ -1188,7 +1189,7 @@
             "Autor":"Jane Austen",
             "Publisher":"Wordsworth ",
             "Year/Edition":"1993/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Sinal e Ruído",
@@ -1196,7 +1197,7 @@
             "Autor":"Neil Gaiman",
             "Publisher":"Conrad",
             "Year/Edition":"2011/1ª",
-            "Read in":"2011"
+            "ReadYear":"2011"
          },
          {
             "Title":"Star Wars",
@@ -1204,7 +1205,7 @@
             "Autor":"James Kahn",
             "Publisher":"DarkSide Books",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"The Lost World and Other Stories",
@@ -1212,7 +1213,7 @@
             "Autor":"S. Arthur Conan Doyl",
             "Publisher":"Wordsworth ",
             "Year/Edition":"2002/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"The Man in the Iron Mask",
@@ -1220,7 +1221,7 @@
             "Autor":"Alexandre Dumas",
             "Publisher":"Wordsworth ",
             "Year/Edition":"2002/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"The Mysterious Island",
@@ -1228,7 +1229,7 @@
             "Autor":"Jules Verne",
             "Publisher":"Wordsworth ",
             "Year/Edition":"2010/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"The Three Musketeers",
@@ -1236,7 +1237,7 @@
             "Autor":"Alexandre Dumas",
             "Publisher":"Wordsworth ",
             "Year/Edition":"2001/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Trilogia do Mago Negro ",
@@ -1244,7 +1245,7 @@
             "Autor":"Trudi Canavan",
             "Publisher":"Novo Conceito",
             "Year/Edition":"2012/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Trilogia do Mago Negro ",
@@ -1252,7 +1253,7 @@
             "Autor":"Trudi Canavan",
             "Publisher":"Novo Conceito",
             "Year/Edition":"",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Trilogia do Mago Negro ",
@@ -1260,7 +1261,7 @@
             "Autor":"Trudi Canavan",
             "Publisher":"Novo Conceito",
             "Year/Edition":"2013/1ª",
-            "Read in":"2013"
+            "ReadYear":"2013"
          },
          {
             "Title":"Trilogia dos Espinhos",
@@ -1268,7 +1269,7 @@
             "Autor":"Mark Lawrence",
             "Publisher":"DarkSide Books",
             "Year/Edition":"2014/2ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Trilogia Thrawn - 1",
@@ -1276,7 +1277,7 @@
             "Autor":"Timothy Zahn",
             "Publisher":"Aleph",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Trilogia dos Espinhos",
@@ -1284,7 +1285,7 @@
             "Autor":"Mark Lawrence",
             "Publisher":"DarkSide Books",
             "Year/Edition":"2014/1ª",
-            "Read in":""
+            "ReadYear":""
          },
          {
             "Title":"Uncharted",
@@ -1292,7 +1293,7 @@
             "Autor":"Christopher Golden",
             "Publisher":"Benvirá",
             "Year/Edition":"2012/1ª",
-            "Read in":""
+            "ReadYear":""
          }
       ]
    }

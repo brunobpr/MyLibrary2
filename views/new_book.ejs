@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel='stylesheet' href='/stylesheets/style.css' />
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>New Book to JSON</title>
+</head>
+
+<body style="margin:0px; padding:0px; width:100%; background-color: black;">
+
+	<% include templates/header ; %>
+	<div style="background-color: white;">
+		<form class="col s12">
+			<div class="row">
+                <input placeholder="Placeholder" id="title" type="text" class="validate autocomplete">
+				<label for="title">Title</label>
+                <span class="helper-text" data-error="Mandatory Field" data-success="right"></span>
+			</div>
+		</form>
+	</div>
+
+</html>
