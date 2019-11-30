@@ -34,7 +34,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(express.urlencoded())
+app.use(express.urlencoded({extended: true}));
 
 
 app.post('/post/book', (req, res) => {
@@ -46,20 +46,21 @@ app.post('/post/book', (req, res) => {
     const year_edition = req.body.year_edition;
     //Reading the books.json file and getting its data in
     fs.readFile('books.json', 'utf8', function readFileCallback(err, data) {
-        if (err) {s
+        if (err) {
+            s
             console.log(err);
         } else {
             // Transforming the JSON file into a JavaScript string
             new_book = JSON.parse(data);
             // Adding the new book to the current JavaScript Object
             new_book.books.push({
-                'Title': title, 
+                'Title': title,
                 'Subtitle': subtitle,
                 "Autor": author,
                 "Publisher": publisher,
                 "Year/Edition": year_edition,
-                "ReadYear":""
-                 });
+                "ReadYear": ""
+            });
             //Converting the JS string into a JSON.
             //Writing the content back (old + new) back to the file
             fs.writeFile('books.json', JSON.stringify(new_book), function (err) {
