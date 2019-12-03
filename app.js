@@ -34,7 +34,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
-app.use(express.urlencoded({extended: true}));
+app.use(express.urlencoded({ extended: true }));
 
 
 app.post('/post/book', (req, res) => {
@@ -58,7 +58,7 @@ app.post('/post/book', (req, res) => {
                 'Subtitle': subtitle,
                 "Autor": author,
                 "Publisher": publisher,
-                "Year/Edition": year_edition,
+                "Year": year_edition,
                 "ReadYear": ""
             });
             //Converting the JS string into a JSON.
@@ -70,6 +70,30 @@ app.post('/post/book', (req, res) => {
     });
 })
 
+app.post('/update/book', (req, res) => {
+    // Creating variables regarding the user input
+    const title = req.body.title;
+    const subtitle = req.body.subtitle;
+    const author = req.body.author;
+    const publisher = req.body.publisher;
+    const year_edition = req.body.year_edition;
+    const read_year = req.body.read_year;
+    const id = req.body.id;
+    console.log(id);
+    //Reading the books.json file and getting its data in
+    var old = require('./books.json');
+    // Changing the value of the book in the position [id];
+    old.books[id].Title = title;
+    old.books[id].Subtitle = subtitle;
+    old.books[id].Autor = author;
+    old.books[id].Publisher = publisher;
+    old.books[id].Year = year_edition;
+    old.books[id].ReadYear = read_year;
+    //Writing the new file back of the same, so it will overwrite the old one
+    fs.writeFile('books.json', JSON.stringify(old), function (err) {
+        if (err) throw err;
+    });
+});
 function onListening() {
     var addr = server.address();
     var bind = typeof addr === 'string'
