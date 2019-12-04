@@ -68,6 +68,7 @@ app.post('/post/book', (req, res) => {
             })
         }
     });
+    res.redirect('/library');
 })
 
 app.post('/update/book', (req, res) => {
@@ -79,7 +80,6 @@ app.post('/update/book', (req, res) => {
     const year_edition = req.body.year_edition;
     const read_year = req.body.read_year;
     const id = req.body.id;
-    console.log(id);
     //Reading the books.json file and getting its data in
     var old = require('./books.json');
     // Changing the value of the book in the position [id];
@@ -89,11 +89,29 @@ app.post('/update/book', (req, res) => {
     old.books[id].Publisher = publisher;
     old.books[id].Year = year_edition;
     old.books[id].ReadYear = read_year;
-    //Writing the new file back of the same, so it will overwrite the old one
+    //Writing the new file back of the same name, so it will overwrite the old one
     fs.writeFile('books.json', JSON.stringify(old), function (err) {
         if (err) throw err;
     });
+    res.render('back');
 });
+
+app.post('/delete/book', (req, res) => {
+    // Creating variables regarding the user input
+    const id = req.body.id;
+    //Reading the books.json file and getting its data in
+    var old = require('./books.json');
+    // Changing the value of the book in the position [id];
+    old.books.splice(id, 1);
+    //Writing the new file back of the same name, so it will overwrite the old one
+    fs.writeFile('books.json', JSON.stringify(old), function (err) {
+        if (err) throw err;
+    });
+  
+    res.redirect('back');
+  
+});
+
 function onListening() {
     var addr = server.address();
     var bind = typeof addr === 'string'

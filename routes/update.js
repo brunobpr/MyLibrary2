@@ -6,6 +6,7 @@ var mydata = require("../books.json");
 router.get('/update', function (req, res, next) {
     res.render('update.ejs', {
        data: mydata,
+       
     });
 });
 
