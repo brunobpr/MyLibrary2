@@ -4,7 +4,7 @@
         "autor":"Bruno Ribeiro",
         "student":"2017138",
         "description":"This is my actual list of books which I keep track since 2013.",
-        "one_drive_url":"https://1drv.ms/x/s!AreC_jhDXjcqgSgt70DMCRqVEskL?e=u05K55",
+        "one_drive_Thumbnail":"https://1drv.ms/x/s!AreC_jhDXjcqgSgt70DMCRqVEskL?e=u05K55",
         "language":"Portuguese-Brazil",
          "books":[
          {
@@ -21,7 +21,12 @@
             "Autor":"Arthur C. Clarke",
             "Publisher":"Aleph",
             "Year":"2013/1ª",
-            "ReadYear":"2014"
+            "ReadYear":"2014",
+            "Favourite":{
+                "Thumbnail":"http://3.bp.blogspot.com/-DWfjSD6bJYA/UWXqMTwMYsI/AAAAAAAAECY/baVEyLLLiVs/s1600/kubrick_2001_a_space_odyssey_wallpaper-HD.jpg",
+                "Description":"In 1968 Arthur C. Clarke published 2001: A Space Odyssey. He worked on the book with Stanley Kubrick during the making of the movie by the same name. The book and movie are based on the series of short stories published by Clarke including The Sentinel written in 1948 for a competition by the BBC.",
+                "Url":"https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28novel%29c"
+            }
          },
          {
             "Title":"A Arte da Guerra",
@@ -37,7 +42,12 @@
             "Autor":"Eduardo Spohr",
             "Publisher":"Verus",
             "Year":"2011/11ª",
-            "ReadYear":"2011"
+            "ReadYear":"2011",
+            "Favourite":{
+                "Thumbnail":"http://2.bp.blogspot.com/-j0O2NzcX6No/Tnxrk0C19iI/AAAAAAAAAI0/_1ZuYz31epo/w1200-h630-p-k-no-nu/imagens-a-batalha-do-apocalipse.jpg",
+                "Description":"In the distant past, the Celestial Paradise was the scene of a terrible uprising. A group of warrior angels, lovers of justice and freedom, challenged the tyranny of the powerful archangels, raising arms against their oppressors.",
+                "Url":"https://en.wikipedia.org/wiki/A_Batalha_do_Apocalipse"
+            }
          },
          {
             "Title":"A Cabana",

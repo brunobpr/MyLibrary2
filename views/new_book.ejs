@@ -11,7 +11,7 @@
 <body style="margin:0px; padding:0px; width:100%; background-color: black;">
 
 	<% include templates/header ; %>
-
+    <!-- Simple form using Materialize CSS. It has input validation-->
 	<div style="position:relative; background-color: white; text-align: center; padding: 50px" class="container">
 		<h3 style="position:relative; text-align: center;">Register a New Book</h3>
 		<form class="col s12" enctype="application/json" action="/post/book" method="POST">
@@ -38,7 +38,7 @@
 			</div>
 			<div class="row">
 				<div class="input-field col s12">
-					<input placeholder="Eg. CCT College Books" name="publisher" type="text" class="validate" required="required" pattern="[A-Za-z0-9]{1,50}">
+					<input placeholder="Eg. CCT College Books" name="publisher" type="text" class="validate" required="required" pattern="[A-Za-z0-9 ]{1,50}">
 					<label for="publisher">Publisher *</label>
 					<span class="helper-text" data-error="This is a mandatory field.  It can only contain letters and numbers." data-success="Valid"></span>
 				</div>
@@ -56,7 +56,7 @@
                     <span>Already read it?</span>
                 </label>
 			</p>
-            <div id="year" style="visibility: hidden;" class="row" value="false">
+			<div id="year" style="visibility: hidden;" class="row" value="false">
 				<div class="input-field col s12">
 					<input placeholder="Eg. 2019" name="read_year" type="text" class="validate" pattern="[0-9]{1,4}">
 					<label for="year_edition">When?</label>
@@ -68,15 +68,17 @@
             </button>
 		</form>
 	</div>
-    <script type="text/javascript">
-        function unhide(){
+	<script type="text/javascript">
+        //This function will make visible the read year input when the checkbox is checked...
+        //If the user didnt read the book, there is no need to enter the year
+		function unhide(){
             if(document.getElementById('checked').checked){
             document.getElementById('year').style.visibility = 'visible';
             }else{
                 document.getElementById('year').style.visibility = 'hidden';
             }
         }
-    </script>
+	</script>
 </body>
 
 </html>
