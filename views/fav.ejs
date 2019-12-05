@@ -5,14 +5,30 @@
 	<link rel='stylesheet' href='/stylesheets/style.css' />
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-     <title>Favourite Books</title>
+	<title>Favourite Books</title>
 </head>
 
 <body style="margin:0px; padding:0px; width:100%; background-color: black;">
 
 	<% include templates/header ; %>
-    <script type='text/javascript' src='https://www.skoob.com.br/widget/estante/16047/354595/'> </script>
     <h1 style="position:relative; color: white; text-align: center;">My favourite books</h1>
+	<ul class="collection">
+		<% data.books.forEach(function (book){
+                if(book.Favourite == null){}else{%>
+		<li class="collection-item avatar z-depth-1">
+			<img src="https://img.icons8.com/metro/1600/book.png" alt="" class="circle">
+			<span class="title"><%= book.Title %></span>
+			<p><%= book.Subtitle %><br>
+                <%= book.Autor %>
+            </p><%if(book.ReadYear == ""){}
+                else{ %><a class="secondary-content"><i class="material-icons green-text text-darken-4">
+                done</i></a>
+				<% }}});%>
+		</li>
+	</ul>
+    <script>
+    M.AutoInit();
+    </script>
 </body>
 
 </html>

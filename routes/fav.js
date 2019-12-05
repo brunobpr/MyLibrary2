@@ -4,9 +4,8 @@ var mydata = require("../books.json");
 
 /* GET favourite page. */
 router.get('/fav', function (req, res, next) {
-    res.render('fav.ejs', {
-       
+    res.render('fav', {
+        data: mydata,
     });
 });
-
 module.exports = router;

@@ -84,14 +84,27 @@ app.post('/post/book', [
     res.redirect('back');
 })
 
-app.post('/update/book', (req, res) => {
-    // Creating variables regarding the user input
-    const title = req.body.title;
-    const subtitle = req.body.subtitle;
-    const author = req.body.author;
-    const publisher = req.body.publisher;
-    const year_edition = req.body.year_edition;
-    const read_year = req.body.read_year;
+app.post('/update/book', [
+    //.isLength is going to check if the input matches with the mininum lenght
+    //.trim cuts white spaces before and after the input
+    //.blacklist('.') will block any input with a dot ...... json files dont like dots.
+    check('title').isLength({ min: 1 }).trim().blacklist('.'),
+    check('subtitle').trim().blacklist('.'),
+    check('author').isLength({ min: 1 }).trim(),
+    check('publisher').isLength({ min: 1 }).trim(),
+    check('year_edition').isLength({ min: 1 }).trim(),
+], (req, res) => {
+    const errors = validationResult(req)
+    if (!errors.isEmpty()) {
+        return res.status(422).json({ errors: errors.array() })
+    }
+    // Creating secure and sanitezed input using Nosave and storing it into variables
+    const title = req.autosan.body.title;
+    const subtitle = req.autosan.body.subtitle;
+    const author = req.autosan.body.author;
+    const publisher = req.autosan.body.publisher;
+    const year_edition = req.autosan.body.year_edition;
+    const read_year = req.autosan.body.read_year;
     const id = req.body.id;
     //Reading the books.json file and getting its data in
     var old = require('./books.json');
