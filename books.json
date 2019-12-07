@@ -1,1309 +1,1308 @@
-
-   {
-        "name":"My books list",
-        "autor":"Bruno Ribeiro",
-        "student":"2017138",
-        "description":"This is my actual list of books which I keep track since 2013.",
-        "one_drive_Thumbnail":"https://1drv.ms/x/s!AreC_jhDXjcqgSgt70DMCRqVEskL?e=u05K55",
-        "language":"Portuguese-Brazil",
-         "books":[
-         {
-            "Title":"20000 Leagues Under The Sea",
-            "Subtitle":"20000 Leagues Under The Sea",
-            "Autor":"Jules Verne",
-            "Publisher":"Collins Classics",
-            "Year":"2010/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"2001: Uma Odisseia No Espaço",
-            "Subtitle":"Odisseia Espacial",
-            "Autor":"Arthur C. Clarke",
-            "Publisher":"Aleph",
-            "Year":"2013/1ª",
-            "ReadYear":"2014",
-            "Favourite":{
-                "Thumbnail":"http://3.bp.blogspot.com/-DWfjSD6bJYA/UWXqMTwMYsI/AAAAAAAAECY/baVEyLLLiVs/s1600/kubrick_2001_a_space_odyssey_wallpaper-HD.jpg",
-                "Description":"In 1968 Arthur C. Clarke published 2001: A Space Odyssey. He worked on the book with Stanley Kubrick during the making of the movie by the same name. The book and movie are based on the series of short stories published by Clarke including The Sentinel written in 1948 for a competition by the BBC.",
-                "Url":"https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28novel%29c"
-            }
-         },
-         {
-            "Title":"A Arte da Guerra",
-            "Subtitle":"A Arte da Guerra",
-            "Autor":"Sun Tzu",
-            "Publisher":"Hunter Books",
-            "Year":"2011/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"A Batalha do Apocalipse",
-            "Subtitle":"Da Queda dos Anjos ao Crepúsculo do Mundo",
-            "Autor":"Eduardo Spohr",
-            "Publisher":"Verus",
-            "Year":"2011/11ª",
-            "ReadYear":"2011",
-            "Favourite":{
-                "Thumbnail":"http://2.bp.blogspot.com/-j0O2NzcX6No/Tnxrk0C19iI/AAAAAAAAAI0/_1ZuYz31epo/w1200-h630-p-k-no-nu/imagens-a-batalha-do-apocalipse.jpg",
-                "Description":"In the distant past, the Celestial Paradise was the scene of a terrible uprising. A group of warrior angels, lovers of justice and freedom, challenged the tyranny of the powerful archangels, raising arms against their oppressors.",
-                "Url":"https://en.wikipedia.org/wiki/A_Batalha_do_Apocalipse"
-            }
-         },
-         {
-            "Title":"A Cabana",
-            "Subtitle":"A Cabana",
-            "Autor":"William P. Young",
-            "Publisher":"Sextante",
-            "Year":"2008/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"A Crônica do Matador do Rei",
-            "Subtitle":"O Nome do Vento",
-            "Autor":"Patrick Rothfuss",
-            "Publisher":"Arqueiro",
-            "Year":"2009/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"A Crônica do Matador do Rei",
-            "Subtitle":"O Temor do Sábio",
-            "Autor":"Patrick Rothfuss",
-            "Publisher":"Arqueiro",
-            "Year":"2011/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"A Ilha do Tesouro",
-            "Subtitle":"A Ilha do Tesouro",
-            "Autor":"R. L. Stevenson",
-            "Publisher":"Abril Cultura",
-            "Year":"1971/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"A Intimação",
-            "Subtitle":"A Intimação",
-            "Autor":"John Grisham",
-            "Publisher":"Rocco",
-            "Year":"2002/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"A Janela de Overton",
-            "Subtitle":"A Janela de Overton",
-            "Autor":"Glenn Beck",
-            "Publisher":"Novo Conceito",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"A Mão Esquerda de Deus",
-            "Subtitle":"O Bater de Suas Asas",
-            "Autor":"Paul Hoffman",
-            "Publisher":"Suma das Letras",
-            "Year":"2013/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"A Mão Esquerda de Deus",
-            "Subtitle":"As Últimas Quatro Coisas ",
-            "Autor":"Paul Hoffman ",
-            "Publisher":"Suma das Letras",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"A Mão Esquerda de Deus",
-            "Subtitle":"A Mão Esquerda de Deus ",
-            "Autor":"Paul Hoffman ",
-            "Publisher":"Suma das Letras",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"A Revolta de Atlas",
-            "Subtitle":"Volume I",
-            "Autor":"Ayn Rand",
-            "Publisher":"Arqueiro",
-            "Year":"2010/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"A Revolta de Atlas",
-            "Subtitle":"Volume II",
-            "Autor":"Ayn Rand",
-            "Publisher":"Arqueiro",
-            "Year":"2010/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"A Revolta de Atlas",
-            "Subtitle":"Volume III",
-            "Autor":"Ayn Rand",
-            "Publisher":"Arqueiro",
-            "Year":"2010/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"A Revolução dos Bichos",
-            "Subtitle":"Um Conto de Fadas ",
-            "Autor":"George Orwell",
-            "Publisher":"Companhia das Letras",
-            "Year":"2007/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"A Torre Negra ",
-            "Subtitle":"O Pistoleiro",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"A Torre Negra ",
-            "Subtitle":"Canção de Susannah",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"A Torre Negra ",
-            "Subtitle":"A Escolha dos Três ",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"A Torre Negra ",
-            "Subtitle":"As Terras Desvastadas",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"A Torre Negra ",
-            "Subtitle":"Lobos de Calla",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"A Torre Negra ",
-            "Subtitle":"Mago e Vidro",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"A Torre Negra ",
-            "Subtitle":"A Torre Negra ",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Around the World in Eighty Days ",
-            "Subtitle":"Around the World in Eighty Days ",
-            "Autor":"Jules Verne",
-            "Publisher":"Wordsworth ",
-            "Year":"2010/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"As Cavernas de Aço",
-            "Subtitle":"As Cavernas de Aço",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2013/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"As Crônicas de Gelo e Fogo",
-            "Subtitle":"A Guerra dos Tronos",
-            "Autor":"George R. R. Martin",
-            "Publisher":"LeYa Brasil",
-            "Year":"2010/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"As Crônicas de Gelo e Fogo",
-            "Subtitle":"O Festim dos Corvos",
-            "Autor":"George R. R. Martin",
-            "Publisher":"LeYa Brasil",
-            "Year":"2012/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"As Crônicas de Gelo e Fogo",
-            "Subtitle":"A Dança dos Dragões",
-            "Autor":"George R. R. Martin",
-            "Publisher":"LeYa Brasil",
-            "Year":"2012/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"As Crônicas de Gelo e Fogo",
-            "Subtitle":"A Tormenta de Espadas",
-            "Autor":"George R. R. Martin",
-            "Publisher":"LeYa Brasil",
-            "Year":"2011/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"As Crônicas de Gelo e Fogo",
-            "Subtitle":"A Fúria dos Reis",
-            "Autor":"George R. R. Martin",
-            "Publisher":"LeYa Brasil",
-            "Year":"2011/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"As Crônicas dos Kane",
-            "Subtitle":"Guia de Sobrevivência",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2012/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"As Crônicas dos Kane",
-            "Subtitle":"A Sobra da Serpente",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2012/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"As Crônicas dos Kane",
-            "Subtitle":"O Trono de Fogo",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"As Crônicas dos Kane",
-            "Subtitle":"A Pirâmide Vermelha",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"As Crônicas Marcianas",
-            "Subtitle":"As Crônicas Marcianas",
-            "Autor":"Ray Bradbury",
-            "Publisher":"Editora Globo",
-            "Year":"2006/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"As Peças Infernais",
-            "Subtitle":"Anjo Mecânico",
-            "Autor":"Cassandra Clare",
-            "Publisher":"Galera Record",
-            "Year":"2012/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Assassin's Creed ",
-            "Subtitle":"A Irmandade",
-            "Autor":"Oliver Bowden",
-            "Publisher":"Galera Record",
-            "Year":"2012/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Assassin's Creed ",
-            "Subtitle":"Renascença",
-            "Autor":"Oliver Bowden",
-            "Publisher":"Galera Record",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Cemitérios de Dragões",
-            "Subtitle":"Legado Ranger",
-            "Autor":"Raphael Draccon",
-            "Publisher":"Rocco",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Clube da Luta",
-            "Subtitle":"Clube da Luta",
-            "Autor":"Chuck Palahniuk",
-            "Publisher":"LeYa Brasil",
-            "Year":"2012/6ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Coisas Frágeis",
-            "Subtitle":"Coisas Frágeis 2 ",
-            "Autor":"Neil Gaiman",
-            "Publisher":"Conrad",
-            "Year":"2010/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 01 ",
-            "Subtitle":"Como Treinar O Seu Dragão",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 02",
-            "Subtitle":"Como Ser Um Pirata",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 03",
-            "Subtitle":"Como Falar Dragonês",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 04",
-            "Subtitle":"Como Quebrar A Maldição de Um Dragão",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 05",
-            "Subtitle":"Como Mudar Uma História de Dragão",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2011/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 06",
-            "Subtitle":"Guia Do Herói Para Vencer Dragões Mortais",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2011/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 09",
-            "Subtitle":"Como Roubar a Espada de Um Dragão",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2013/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 10",
-            "Subtitle":"Como Pegar a Joia do Dragão",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2013/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 07",
-            "Subtitle":"Como Navegar Em Uma Tempestade de Dragão",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2011/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - Livro Extra 1",
-            "Subtitle":"Como Treinar O Seu Viking",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2012/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Como Treinar o Seu Dragão - 08",
-            "Subtitle":"Como Partir O Coração de Um Dragão",
-            "Autor":"Cressida Cowell",
-            "Publisher":"Intrínseca",
-            "Year":"2012/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Contos Para Crianças Impossíveis",
-            "Subtitle":"Contos Para Crianças Impossíveis",
-            "Autor":"Jacques Prévert",
-            "Publisher":"Cosac & Naify",
-            "Year":"2007/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Conversando Com Espíritos",
-            "Subtitle":"Conversando Com Espíritos",
-            "Autor":"James Van Praagh",
-            "Publisher":"Sextante",
-            "Year":"2006/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Deuses Americanos ",
-            "Subtitle":"Deuses Americanos",
-            "Autor":"Neil Gaiman",
-            "Publisher":"Conrad",
-            "Year":"2011/1º",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Dragões de Éter",
-            "Subtitle":"Caçadores de Bruxas",
-            "Autor":"Raphael Draccon",
-            "Publisher":"LeYa Brasil",
-            "Year":"2010/2ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Dragões de Éter",
-            "Subtitle":"Corações de Neve",
-            "Autor":"Raphael Draccon",
-            "Publisher":"LeYa Brasil",
-            "Year":"2010/2ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Dragões de Éter",
-            "Subtitle":"Círculos de Chuva",
-            "Autor":"Raphael Draccon",
-            "Publisher":"LeYa Brasil",
-            "Year":"2010/2ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Espíritos de Gelo",
-            "Subtitle":"Espíritos de Gelo",
-            "Autor":"Raphael Draccon",
-            "Publisher":"LeYa Brasil",
-            "Year":"2011/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Espíritos Entre Nós",
-            "Subtitle":"Espíritos Entre Nós",
-            "Autor":"James Van Praagh",
-            "Publisher":"Sextante",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Eu",
-            "Subtitle":" Robô",
-            "Autor":"Eu",
-            "Publisher":" Robô",
-            "Year":"Isaac Asimov",
-            "ReadYear":"Aleph"
-         },
-         {
-            "Title":"Fahrenheit 451",
-            "Subtitle":"Fahrenheit 451",
-            "Autor":"Ray Bradbury",
-            "Publisher":"Editora Globo",
-            "Year":"2012/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Fernão Capelo Gaivota",
-            "Subtitle":"Fernão Capelo Gaivota",
-            "Autor":"Richard Bach",
-            "Publisher":"Nórdica",
-            "Year":"1970/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Filhos do Éden",
-            "Subtitle":"Herdeiros de Atlândida ",
-            "Autor":"Eduardo Spohr",
-            "Publisher":"Verus",
-            "Year":"2011/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Filhos do Éden",
-            "Subtitle":"Anjos da Morte",
-            "Autor":"Eduardo Spohr",
-            "Publisher":"Verus",
-            "Year":"2013/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Fortaleza Digital",
-            "Subtitle":"Fortaleza Digital",
-            "Autor":"Dan Brown",
-            "Publisher":"Arqueiro",
-            "Year":"2008/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"From the Earth to the Moon",
-            "Subtitle":"From the Earth to the Moon",
-            "Autor":"Jules Verne",
-            "Publisher":"Wordsworth ",
-            "Year":"2011/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Fundação",
-            "Subtitle":"Fundação ",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2009/1ª",
-            "ReadYear":"2015"
-         },
-         {
-            "Title":"Fundação",
-            "Subtitle":"Segunda Fundação",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2009/1ª",
-            "ReadYear":"2015"
-         },
-         {
-            "Title":"Fundação",
-            "Subtitle":"Fundação E Império",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2009/1ª",
-            "ReadYear":"2015"
-         },
-         {
-            "Title":"Fundação",
-            "Subtitle":"Origens da Fundação",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Fundação",
-            "Subtitle":"Limites da Fundação",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Fundação",
-            "Subtitle":"Prelúdio à Fundação",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Fundação",
-            "Subtitle":"Fundação e Terra",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Harry Potter",
-            "Subtitle":"E a Câmera Secreta",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Rocco",
-            "Year":"2012/4ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Harry Potter",
-            "Subtitle":"E a Pedra Filosofal",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Presença",
-            "Year":"2001/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Harry Potter",
-            "Subtitle":"E o Prisioneiro de Askaban",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Rocco",
-            "Year":"2012/4ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Harry Potter",
-            "Subtitle":"E o Enigma do Príncipe",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Rocco",
-            "Year":"2012/4ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Harry Potter",
-            "Subtitle":"E o Cálice de Fogo",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Rocco",
-            "Year":"2012/4ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Harry Potter",
-            "Subtitle":"E as Relíquias da Morte",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Rocco",
-            "Year":"2012/4ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Harry Potter",
-            "Subtitle":"E a Ordem da Fênix",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Rocco",
-            "Year":"2012/4ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Harry Potter ",
-            "Subtitle":"E a Pedra Filosofal",
-            "Autor":"J. K. Rowling",
-            "Publisher":"Rocco",
-            "Year":"2012/4ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Heresia",
-            "Subtitle":"Um Suspense Histórico",
-            "Autor":"S. J. Parris",
-            "Publisher":"Arqueiro",
-            "Year":"2011/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Hush",
-            "Subtitle":" Hush",
-            "Autor":"Sussuro",
-            "Publisher":"Becca Fitzpatrick",
-            "Year":"Intrínseca",
-            "ReadYear":"2010/1ª"
-         },
-         {
-            "Title":"Hush",
-            "Subtitle":" Hush",
-            "Autor":"Crescendo",
-            "Publisher":"Becca Fitzpatrick",
-            "Year":"Intrínseca",
-            "ReadYear":"2011/1ª"
-         },
-         {
-            "Title":"Hush",
-            "Subtitle":" Hush",
-            "Autor":"Silêncio",
-            "Publisher":"Becca Fitzpatrick",
-            "Year":"Intrínseca",
-            "ReadYear":"2012/1ª"
-         },
-         {
-            "Title":"Insônia",
-            "Subtitle":"Insônia",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2013/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Jogador Nº1",
-            "Subtitle":"Jogador Nº1",
-            "Autor":"Ernest Cline",
-            "Publisher":"LeYa Brasil",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Jogos Vorazes",
-            "Subtitle":"Jogos Vorazes",
-            "Autor":"Suzanne Collins",
-            "Publisher":"Rocco",
-            "Year":"2010/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Jogos Vorazes",
-            "Subtitle":"Em Chamas",
-            "Autor":"Suzanne Collins",
-            "Publisher":"Rocco",
-            "Year":"2010/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Jogos Vorazes",
-            "Subtitle":"A Esperança",
-            "Autor":"Suzanne Collins",
-            "Publisher":"Rocco",
-            "Year":"2010/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Laranja Mecânica",
-            "Subtitle":"Laranja Mecânica",
-            "Autor":"Anthony Burgess",
-            "Publisher":"Aleph",
-            "Year":"2004/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Misery",
-            "Subtitle":"Louca Obsessão",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Mistborn: Nascidos da Bruma",
-            "Subtitle":"O Império Final",
-            "Autor":"Brandon Sanderson",
-            "Publisher":"LeYa Brasil",
-            "Year":"2014/1ª",
-            "ReadYear":"2015"
-         },
-         {
-            "Title":"Mortal Engines",
-            "Subtitle":"Mortal Engines",
-            "Autor":"Philip Reeve",
-            "Publisher":" Novo Século",
-            "Year":"2011/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Caçador de Pipas",
-            "Subtitle":"O Caçador de Pipas",
-            "Autor":"Khaled Hosseini",
-            "Publisher":"Nova Fronteira",
-            "Year":"2005/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"O Chamado do Cuco",
-            "Subtitle":"Cormoran Strike",
-            "Autor":"Robert Galbraith",
-            "Publisher":"Rocco",
-            "Year":"2013/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Clássico Guia de Estratégia",
-            "Subtitle":"O Livro dos 5 Anéis",
-            "Autor":"Myamoto Musashi",
-            "Publisher":"Hunter Books",
-            "Year":"2011/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Código Da Vinci",
-            "Subtitle":"O Código Da Vinci",
-            "Autor":"Dan Brown",
-            "Publisher":"Arqueiro",
-            "Year":"2012/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Colecionador de Lágrimas",
-            "Subtitle":"Holocausto Nunca Mais",
-            "Autor":"Augusto Cury",
-            "Publisher":"Planeta do Brasil",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"O Corretor",
-            "Subtitle":"O Corretor",
-            "Autor":"John Grisham",
-            "Publisher":"Rocco",
-            "Year":"2005/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"O Diário de um Mago",
-            "Subtitle":"O Diário de um Mago",
-            "Autor":"Paulo Coelho",
-            "Publisher":"Rocco",
-            "Year":"1992/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"O Guia dos Curiosos",
-            "Subtitle":"Invenções",
-            "Autor":"Marcelo Duarte",
-            "Publisher":"Panda Books",
-            "Year":"2007/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Guia dos Mochileiros das Galáxias",
-            "Subtitle":"Não Entre em Pânico",
-            "Autor":"Douglas Adams",
-            "Publisher":"Arqueiro",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"O Guia dos Mochileiros das Galáxias",
-            "Subtitle":"A Vida",
-            "Autor":" O Universo e Tudo Mais",
-            "Publisher":"Douglas Adams",
-            "Year":"Arqueiro",
-            "ReadYear":"2010/1ª"
-         },
-         {
-            "Title":"O Guia dos Mochileiros das Galáxias",
-            "Subtitle":"O Restaurante no Fim do Mundo",
-            "Autor":"Douglas Adams",
-            "Publisher":"Arqueiro",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"O Guia dos Mochileiros das Galáxias",
-            "Subtitle":"Praticamente Inofensiva",
-            "Autor":"Douglas Adams",
-            "Publisher":"Arqueiro",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"O Guia dos Mochileiros das Galáxias",
-            "Subtitle":"Até Mais",
-            "Autor":" E Obrigado Pelos Peixes!",
-            "Publisher":"Douglas Adams",
-            "Year":"Arqueiro",
-            "ReadYear":"2010/1ª"
-         },
-         {
-            "Title":"O Hobbit",
-            "Subtitle":"O Hobbit",
-            "Autor":"J. R. R. Tolkien",
-            "Publisher":"WMF",
-            "Year":"2011/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"O Iluminado",
-            "Subtitle":"O Iluminado",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2012/1ª",
-            "ReadYear":"2015"
-         },
-         {
-            "Title":"O Iluminado",
-            "Subtitle":"Doutor Sono",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Livro de Ouro da Mitologia",
-            "Subtitle":"Histórias de Deuses e Heróis",
-            "Autor":"Thomas Bulfinch",
-            "Publisher":"Ediouro",
-            "Year":"2011/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Livro dos Cinco Anéis",
-            "Subtitle":"Gorin no Sho",
-            "Autor":"Miyamoto Musashi",
-            "Publisher":"Hunter Books",
-            "Year":"2011/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Mistério da Estrela",
-            "Subtitle":"Stardust",
-            "Autor":"Neil Gaiman",
-            "Publisher":"Rocco",
-            "Year":"2008/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Mundo do Exterminador",
-            "Subtitle":"O Jogo do Exterminador",
-            "Autor":"Orson Scott Card...",
-            "Publisher":"Intrínseca",
-            "Year":"2013/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Oceano no Fim do Caminho",
-            "Subtitle":"O Oceano no Fim do Caminho",
-            "Autor":"Neil Gaiman",
-            "Publisher":"Intrínseca",
-            "Year":"2013/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Pequeno Príncipe",
-            "Subtitle":"O Pequeno Príncipe",
-            "Autor":"Antoine de Saint-Exupéry",
-            "Publisher":"Agir",
-            "Year":"2013/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Principe ",
-            "Subtitle":"O Principe",
-            "Autor":"Nicolau Maquiavel",
-            "Publisher":"Hunter Books",
-            "Year":"2011/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Rei das Fraudes",
-            "Subtitle":"O Rei das Fraudes",
-            "Autor":"John Grisham",
-            "Publisher":"Rocco",
-            "Year":"2003/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Semeador de Ideias",
-            "Subtitle":"O Semeador de Ideias ",
-            "Autor":"Augusto Cury",
-            "Publisher":"Academia",
-            "Year":"2010/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"O Senhor dos Anéis",
-            "Subtitle":"Volume Único - Capa flexível do filme",
-            "Autor":"J. R. R. Tolkien",
-            "Publisher":"Martins Fontes",
-            "Year":"2003/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"O Silmarillion",
-            "Subtitle":"O Silmarillion",
-            "Autor":"J. R. R. Tolkien",
-            "Publisher":"WMF",
-            "Year":"2011/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"O Símbolo Perdido",
-            "Subtitle":"O Símbolo Perdido",
-            "Autor":"Dan Brown",
-            "Publisher":"Sextante",
-            "Year":"2009/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"O Vendedor de Sonhos",
-            "Subtitle":"O Chamado",
-            "Autor":"Augusto Cury",
-            "Publisher":"Academia",
-            "Year":"2008/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"O Vendedor de Sonhos",
-            "Subtitle":"E a Revolução dos Anônimos",
-            "Autor":"Augusto Cury",
-            "Publisher":"Academia",
-            "Year":"2009/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"O Vento Pela Fechadura",
-            "Subtitle":"Uma História de A Torre Negra",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2013/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Olimpo em Guerra",
-            "Subtitle":"Pegassus e o Fogo do Olimpo",
-            "Autor":"Kate O'Hearn",
-            "Publisher":"LeYa Brasil",
-            "Year":"2011/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Os Goonies",
-            "Subtitle":"Os Goonies",
-            "Autor":"Steven Spielberg",
-            "Publisher":"Darkside",
-            "Year":"2012/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Os Herois do Olimpo",
-            "Subtitle":"O Filho de Netuno",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2012/1ª",
-            "ReadYear":"2012"
-         },
-         {
-            "Title":"Os Herois do Olimpo",
-            "Subtitle":"O Heroi Perdido",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Os Herois do Olimpo",
-            "Subtitle":"A Marca de Atena",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2013/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Os Herois do Olimpo",
-            "Subtitle":"A Casa de Hades",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2013/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Os Instrumentos Mortais",
-            "Subtitle":"Cidade dos Anjos Caídos",
-            "Autor":"Cassandra Clare",
-            "Publisher":"Galera Record",
-            "Year":"2012/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Os Instrumentos Mortais",
-            "Subtitle":"Cidade das Cinzas",
-            "Autor":"Cassandra Clare",
-            "Publisher":"Galera Record",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Os Instrumentos Mortais",
-            "Subtitle":"Cidade dos Ossos",
-            "Autor":"Cassandra Clare",
-            "Publisher":"Galera Record",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Os Instrumentos Mortais",
-            "Subtitle":"Cidade de Vidro",
-            "Autor":"Cassandra Clare",
-            "Publisher":"Galera Record",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Os Pilares da Terra",
-            "Subtitle":"Os Pilares da Terra",
-            "Autor":"Ken Follett",
-            "Publisher":"Rocco",
-            "Year":"2012/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Os Próprios Deuses",
-            "Subtitle":"Os Próprios Deuses",
-            "Autor":"Isaac Asimov",
-            "Publisher":"Aleph",
-            "Year":"2010/1ª",
-            "ReadYear":"2014"
-         },
-         {
-            "Title":"Percy Jackson & os Olimpianos",
-            "Subtitle":"O Mar de Monstros",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2009/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Percy Jackson & os Olimpianos",
-            "Subtitle":"A Maldição do Titã",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2009/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Percy Jackson & os Olimpianos",
-            "Subtitle":"Os Arquivos de Semideus",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Percy Jackson & os Olimpianos",
-            "Subtitle":"A Batalha do Labirinto",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Percy Jackson & os Olimpianos",
-            "Subtitle":"O Último Olimpiano",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2010/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Percy Jackson & os Olimpianos",
-            "Subtitle":"O Ladrão de Raios ",
-            "Autor":"Rick Riodan",
-            "Publisher":"Intrínseca",
-            "Year":"2008/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Pesadelos e Paisagens Noturnas - 1",
-            "Subtitle":"Pesadelos e Paisagens Noturnas - 1",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2013/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Pesadelos e Paisagens Noturnas - 2",
-            "Subtitle":"Pesadelos e Paisagens Noturnas - 2",
-            "Autor":"Stephen King",
-            "Publisher":"Suma das Letras",
-            "Year":"2013/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Pride and Prejudice",
-            "Subtitle":"Pride and Prejudice",
-            "Autor":"Jane Austen",
-            "Publisher":"Wordsworth ",
-            "Year":"1993/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Sinal e Ruído",
-            "Subtitle":"Sinal e Ruído",
-            "Autor":"Neil Gaiman",
-            "Publisher":"Conrad",
-            "Year":"2011/1ª",
-            "ReadYear":"2011"
-         },
-         {
-            "Title":"Star Wars",
-            "Subtitle":"A Trilogia - Special",
-            "Autor":"James Kahn",
-            "Publisher":"DarkSide Books",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"The Lost World and Other Stories",
-            "Subtitle":"The Lost World and Other Stories",
-            "Autor":"S. Arthur Conan Doyl",
-            "Publisher":"Wordsworth ",
-            "Year":"2002/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"The Man in the Iron Mask",
-            "Subtitle":"The Man in the Iron Mask",
-            "Autor":"Alexandre Dumas",
-            "Publisher":"Wordsworth ",
-            "Year":"2002/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"The Mysterious Island",
-            "Subtitle":"The Mysterious Island",
-            "Autor":"Jules Verne",
-            "Publisher":"Wordsworth ",
-            "Year":"2010/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"The Three Musketeers",
-            "Subtitle":"The Three Musketeers",
-            "Autor":"Alexandre Dumas",
-            "Publisher":"Wordsworth ",
-            "Year":"2001/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Trilogia do Mago Negro ",
-            "Subtitle":"O Clã dos Magos",
-            "Autor":"Trudi Canavan",
-            "Publisher":"Novo Conceito",
-            "Year":"2012/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Trilogia do Mago Negro ",
-            "Subtitle":"A Aprendiz",
-            "Autor":"Trudi Canavan",
-            "Publisher":"Novo Conceito",
-            "Year":"",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Trilogia do Mago Negro ",
-            "Subtitle":"O Lorde Supremo",
-            "Autor":"Trudi Canavan",
-            "Publisher":"Novo Conceito",
-            "Year":"2013/1ª",
-            "ReadYear":"2013"
-         },
-         {
-            "Title":"Trilogia dos Espinhos",
-            "Subtitle":"Prince of Thorns",
-            "Autor":"Mark Lawrence",
-            "Publisher":"DarkSide Books",
-            "Year":"2014/2ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Trilogia Thrawn - 1",
-            "Subtitle":"Herdeiro do Império",
-            "Autor":"Timothy Zahn",
-            "Publisher":"Aleph",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Trilogia dos Espinhos",
-            "Subtitle":"king of Thorns",
-            "Autor":"Mark Lawrence",
-            "Publisher":"DarkSide Books",
-            "Year":"2014/1ª",
-            "ReadYear":""
-         },
-         {
-            "Title":"Uncharted",
-            "Subtitle":"O Quarto Labirinto",
-            "Autor":"Christopher Golden",
-            "Publisher":"Benvirá",
-            "Year":"2012/1ª",
-            "ReadYear":""
-         }
-      ]
-   }
+{
+  "name": "My books list",
+  "autor": "Bruno Ribeiro",
+  "student": "2017138",
+  "description": "This is my actual list of books which I keep track since 2013.",
+  "one_drive_Thumbnail": "https://1drv.ms/x/s!AreC_jhDXjcqgSgt70DMCRqVEskL?e=u05K55",
+  "language": "Portuguese-Brazil",
+  "books": [
+    {
+      "Title": "20000 Leagues Under The Sea",
+      "Subtitle": "20000 Leagues Under The Sea",
+      "Autor": "Jules Verne",
+      "Publisher": "Collins Classics",
+      "Year": "2010/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "2001: Uma Odisseia No Espaço",
+      "Subtitle": "Odisseia Espacial",
+      "Autor": "Arthur C. Clarke",
+      "Publisher": "Aleph",
+      "Year": "2013/1ª",
+      "ReadYear": "2014",
+      "Favourite": {
+        "Thumbnail": "http://3.bp.blogspot.com/-DWfjSD6bJYA/UWXqMTwMYsI/AAAAAAAAECY/baVEyLLLiVs/s1600/kubrick_2001_a_space_odyssey_wallpaper-HD.jpg",
+        "Description": "In 1968 Arthur C. Clarke published 2001: A Space Odyssey. He worked on the book with Stanley Kubrick during the making of the movie by the same name. The book and movie are based on the series of short stories published by Clarke including The Sentinel written in 1948 for a competition by the BBC.",
+        "Url": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28novel%29c"
+      }
+    },
+    {
+      "Title": "A Arte da Guerra",
+      "Subtitle": "A Arte da Guerra",
+      "Autor": "Sun Tzu",
+      "Publisher": "Hunter Books",
+      "Year": "2011/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "A Batalha do Apocalipse",
+      "Subtitle": "Da Queda dos Anjos ao Crepúsculo do Mundo",
+      "Autor": "Eduardo Spohr",
+      "Publisher": "Verus",
+      "Year": "2011/11ª",
+      "ReadYear": "2011",
+      "Favourite": {
+        "Thumbnail": "http://2.bp.blogspot.com/-j0O2NzcX6No/Tnxrk0C19iI/AAAAAAAAAI0/_1ZuYz31epo/w1200-h630-p-k-no-nu/imagens-a-batalha-do-apocalipse.jpg",
+        "Description": "In the distant past, the Celestial Paradise was the scene of a terrible uprising. A group of warrior angels, lovers of justice and freedom, challenged the tyranny of the powerful archangels, raising arms against their oppressors.",
+        "Url": "https://en.wikipedia.org/wiki/A_Batalha_do_Apocalipse"
+      }
+    },
+    {
+      "Title": "A Cabana",
+      "Subtitle": "A Cabana",
+      "Autor": "William P. Young",
+      "Publisher": "Sextante",
+      "Year": "2008/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "A Crônica do Matador do Rei",
+      "Subtitle": "O Nome do Vento",
+      "Autor": "Patrick Rothfuss",
+      "Publisher": "Arqueiro",
+      "Year": "2009/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "A Crônica do Matador do Rei",
+      "Subtitle": "O Temor do Sábio",
+      "Autor": "Patrick Rothfuss",
+      "Publisher": "Arqueiro",
+      "Year": "2011/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "A Ilha do Tesouro",
+      "Subtitle": "A Ilha do Tesouro",
+      "Autor": "R. L. Stevenson",
+      "Publisher": "Abril Cultura",
+      "Year": "1971/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "A Intimação",
+      "Subtitle": "A Intimação",
+      "Autor": "John Grisham",
+      "Publisher": "Rocco",
+      "Year": "2002/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "A Janela de Overton",
+      "Subtitle": "A Janela de Overton",
+      "Autor": "Glenn Beck",
+      "Publisher": "Novo Conceito",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "A Mão Esquerda de Deus",
+      "Subtitle": "O Bater de Suas Asas",
+      "Autor": "Paul Hoffman",
+      "Publisher": "Suma das Letras",
+      "Year": "2013/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "A Mão Esquerda de Deus",
+      "Subtitle": "As Últimas Quatro Coisas ",
+      "Autor": "Paul Hoffman ",
+      "Publisher": "Suma das Letras",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "A Mão Esquerda de Deus",
+      "Subtitle": "A Mão Esquerda de Deus ",
+      "Autor": "Paul Hoffman ",
+      "Publisher": "Suma das Letras",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "A Revolta de Atlas",
+      "Subtitle": "Volume I",
+      "Autor": "Ayn Rand",
+      "Publisher": "Arqueiro",
+      "Year": "2010/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "A Revolta de Atlas",
+      "Subtitle": "Volume II",
+      "Autor": "Ayn Rand",
+      "Publisher": "Arqueiro",
+      "Year": "2010/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "A Revolta de Atlas",
+      "Subtitle": "Volume III",
+      "Autor": "Ayn Rand",
+      "Publisher": "Arqueiro",
+      "Year": "2010/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "A Revolução dos Bichos",
+      "Subtitle": "Um Conto de Fadas ",
+      "Autor": "George Orwell",
+      "Publisher": "Companhia das Letras",
+      "Year": "2007/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "A Torre Negra ",
+      "Subtitle": "O Pistoleiro",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "A Torre Negra ",
+      "Subtitle": "Canção de Susannah",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "A Torre Negra ",
+      "Subtitle": "A Escolha dos Três ",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "A Torre Negra ",
+      "Subtitle": "As Terras Desvastadas",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "A Torre Negra ",
+      "Subtitle": "Lobos de Calla",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "A Torre Negra ",
+      "Subtitle": "Mago e Vidro",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "A Torre Negra ",
+      "Subtitle": "A Torre Negra ",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Around the World in Eighty Days ",
+      "Subtitle": "Around the World in Eighty Days ",
+      "Autor": "Jules Verne",
+      "Publisher": "Wordsworth ",
+      "Year": "2010/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "As Cavernas de Aço",
+      "Subtitle": "As Cavernas de Aço",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2013/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "As Crônicas de Gelo e Fogo",
+      "Subtitle": "A Guerra dos Tronos",
+      "Autor": "George R. R. Martin",
+      "Publisher": "LeYa Brasil",
+      "Year": "2010/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "As Crônicas de Gelo e Fogo",
+      "Subtitle": "O Festim dos Corvos",
+      "Autor": "George R. R. Martin",
+      "Publisher": "LeYa Brasil",
+      "Year": "2012/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "As Crônicas de Gelo e Fogo",
+      "Subtitle": "A Dança dos Dragões",
+      "Autor": "George R. R. Martin",
+      "Publisher": "LeYa Brasil",
+      "Year": "2012/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "As Crônicas de Gelo e Fogo",
+      "Subtitle": "A Tormenta de Espadas",
+      "Autor": "George R. R. Martin",
+      "Publisher": "LeYa Brasil",
+      "Year": "2011/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "As Crônicas de Gelo e Fogo",
+      "Subtitle": "A Fúria dos Reis",
+      "Autor": "George R. R. Martin",
+      "Publisher": "LeYa Brasil",
+      "Year": "2011/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "As Crônicas dos Kane",
+      "Subtitle": "Guia de Sobrevivência",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2012/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "As Crônicas dos Kane",
+      "Subtitle": "A Sobra da Serpente",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2012/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "As Crônicas dos Kane",
+      "Subtitle": "O Trono de Fogo",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "As Crônicas dos Kane",
+      "Subtitle": "A Pirâmide Vermelha",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "As Crônicas Marcianas",
+      "Subtitle": "As Crônicas Marcianas",
+      "Autor": "Ray Bradbury",
+      "Publisher": "Editora Globo",
+      "Year": "2006/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "As Peças Infernais",
+      "Subtitle": "Anjo Mecânico",
+      "Autor": "Cassandra Clare",
+      "Publisher": "Galera Record",
+      "Year": "2012/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Assassin's Creed ",
+      "Subtitle": "A Irmandade",
+      "Autor": "Oliver Bowden",
+      "Publisher": "Galera Record",
+      "Year": "2012/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Assassin's Creed ",
+      "Subtitle": "Renascença",
+      "Autor": "Oliver Bowden",
+      "Publisher": "Galera Record",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Cemitérios de Dragões",
+      "Subtitle": "Legado Ranger",
+      "Autor": "Raphael Draccon",
+      "Publisher": "Rocco",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Clube da Luta",
+      "Subtitle": "Clube da Luta",
+      "Autor": "Chuck Palahniuk",
+      "Publisher": "LeYa Brasil",
+      "Year": "2012/6ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Coisas Frágeis",
+      "Subtitle": "Coisas Frágeis 2 ",
+      "Autor": "Neil Gaiman",
+      "Publisher": "Conrad",
+      "Year": "2010/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 01 ",
+      "Subtitle": "Como Treinar O Seu Dragão",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 02",
+      "Subtitle": "Como Ser Um Pirata",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 03",
+      "Subtitle": "Como Falar Dragonês",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 04",
+      "Subtitle": "Como Quebrar A Maldição de Um Dragão",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 05",
+      "Subtitle": "Como Mudar Uma História de Dragão",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2011/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 06",
+      "Subtitle": "Guia Do Herói Para Vencer Dragões Mortais",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2011/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 09",
+      "Subtitle": "Como Roubar a Espada de Um Dragão",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2013/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 10",
+      "Subtitle": "Como Pegar a Joia do Dragão",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2013/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 07",
+      "Subtitle": "Como Navegar Em Uma Tempestade de Dragão",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2011/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - Livro Extra 1",
+      "Subtitle": "Como Treinar O Seu Viking",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2012/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Como Treinar o Seu Dragão - 08",
+      "Subtitle": "Como Partir O Coração de Um Dragão",
+      "Autor": "Cressida Cowell",
+      "Publisher": "Intrínseca",
+      "Year": "2012/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Contos Para Crianças Impossíveis",
+      "Subtitle": "Contos Para Crianças Impossíveis",
+      "Autor": "Jacques Prévert",
+      "Publisher": "Cosac & Naify",
+      "Year": "2007/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Conversando Com Espíritos",
+      "Subtitle": "Conversando Com Espíritos",
+      "Autor": "James Van Praagh",
+      "Publisher": "Sextante",
+      "Year": "2006/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Deuses Americanos ",
+      "Subtitle": "Deuses Americanos",
+      "Autor": "Neil Gaiman",
+      "Publisher": "Conrad",
+      "Year": "2011/1º",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Dragões de Éter",
+      "Subtitle": "Caçadores de Bruxas",
+      "Autor": "Raphael Draccon",
+      "Publisher": "LeYa Brasil",
+      "Year": "2010/2ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Dragões de Éter",
+      "Subtitle": "Corações de Neve",
+      "Autor": "Raphael Draccon",
+      "Publisher": "LeYa Brasil",
+      "Year": "2010/2ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Dragões de Éter",
+      "Subtitle": "Círculos de Chuva",
+      "Autor": "Raphael Draccon",
+      "Publisher": "LeYa Brasil",
+      "Year": "2010/2ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Espíritos de Gelo",
+      "Subtitle": "Espíritos de Gelo",
+      "Autor": "Raphael Draccon",
+      "Publisher": "LeYa Brasil",
+      "Year": "2011/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Espíritos Entre Nós",
+      "Subtitle": "Espíritos Entre Nós",
+      "Autor": "James Van Praagh",
+      "Publisher": "Sextante",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Eu",
+      "Subtitle": " Robô",
+      "Autor": "Eu",
+      "Publisher": " Robô",
+      "Year": "Isaac Asimov",
+      "ReadYear": "Aleph"
+    },
+    {
+      "Title": "Fahrenheit 451",
+      "Subtitle": "Fahrenheit 451",
+      "Autor": "Ray Bradbury",
+      "Publisher": "Editora Globo",
+      "Year": "2012/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Fernão Capelo Gaivota",
+      "Subtitle": "Fernão Capelo Gaivota",
+      "Autor": "Richard Bach",
+      "Publisher": "Nórdica",
+      "Year": "1970/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Filhos do Éden",
+      "Subtitle": "Herdeiros de Atlândida ",
+      "Autor": "Eduardo Spohr",
+      "Publisher": "Verus",
+      "Year": "2011/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Filhos do Éden",
+      "Subtitle": "Anjos da Morte",
+      "Autor": "Eduardo Spohr",
+      "Publisher": "Verus",
+      "Year": "2013/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Fortaleza Digital",
+      "Subtitle": "Fortaleza Digital",
+      "Autor": "Dan Brown",
+      "Publisher": "Arqueiro",
+      "Year": "2008/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "From the Earth to the Moon",
+      "Subtitle": "From the Earth to the Moon",
+      "Autor": "Jules Verne",
+      "Publisher": "Wordsworth ",
+      "Year": "2011/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Fundação",
+      "Subtitle": "Fundação ",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2009/1ª",
+      "ReadYear": "2015"
+    },
+    {
+      "Title": "Fundação",
+      "Subtitle": "Segunda Fundação",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2009/1ª",
+      "ReadYear": "2015"
+    },
+    {
+      "Title": "Fundação",
+      "Subtitle": "Fundação E Império",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2009/1ª",
+      "ReadYear": "2015"
+    },
+    {
+      "Title": "Fundação",
+      "Subtitle": "Origens da Fundação",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Fundação",
+      "Subtitle": "Limites da Fundação",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Fundação",
+      "Subtitle": "Prelúdio à Fundação",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Fundação",
+      "Subtitle": "Fundação e Terra",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Harry Potter",
+      "Subtitle": "E a Câmera Secreta",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Rocco",
+      "Year": "2012/4ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Harry Potter",
+      "Subtitle": "E a Pedra Filosofal",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Presença",
+      "Year": "2001/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Harry Potter",
+      "Subtitle": "E o Prisioneiro de Askaban",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Rocco",
+      "Year": "2012/4ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Harry Potter",
+      "Subtitle": "E o Enigma do Príncipe",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Rocco",
+      "Year": "2012/4ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Harry Potter",
+      "Subtitle": "E o Cálice de Fogo",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Rocco",
+      "Year": "2012/4ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Harry Potter",
+      "Subtitle": "E as Relíquias da Morte",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Rocco",
+      "Year": "2012/4ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Harry Potter",
+      "Subtitle": "E a Ordem da Fênix",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Rocco",
+      "Year": "2012/4ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Harry Potter ",
+      "Subtitle": "E a Pedra Filosofal",
+      "Autor": "J. K. Rowling",
+      "Publisher": "Rocco",
+      "Year": "2012/4ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Heresia",
+      "Subtitle": "Um Suspense Histórico",
+      "Autor": "S. J. Parris",
+      "Publisher": "Arqueiro",
+      "Year": "2011/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Hush",
+      "Subtitle": " Hush",
+      "Autor": "Sussuro",
+      "Publisher": "Becca Fitzpatrick",
+      "Year": "Intrínseca",
+      "ReadYear": "2010/1ª"
+    },
+    {
+      "Title": "Hush",
+      "Subtitle": " Hush",
+      "Autor": "Crescendo",
+      "Publisher": "Becca Fitzpatrick",
+      "Year": "Intrínseca",
+      "ReadYear": "2011/1ª"
+    },
+    {
+      "Title": "Hush",
+      "Subtitle": " Hush",
+      "Autor": "Silêncio",
+      "Publisher": "Becca Fitzpatrick",
+      "Year": "Intrínseca",
+      "ReadYear": "2012/1ª"
+    },
+    {
+      "Title": "Insônia",
+      "Subtitle": "Insônia",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2013/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Jogador Nº1",
+      "Subtitle": "Jogador Nº1",
+      "Autor": "Ernest Cline",
+      "Publisher": "LeYa Brasil",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Jogos Vorazes",
+      "Subtitle": "Jogos Vorazes",
+      "Autor": "Suzanne Collins",
+      "Publisher": "Rocco",
+      "Year": "2010/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Jogos Vorazes",
+      "Subtitle": "Em Chamas",
+      "Autor": "Suzanne Collins",
+      "Publisher": "Rocco",
+      "Year": "2010/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Jogos Vorazes",
+      "Subtitle": "A Esperança",
+      "Autor": "Suzanne Collins",
+      "Publisher": "Rocco",
+      "Year": "2010/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Laranja Mecânica",
+      "Subtitle": "Laranja Mecânica",
+      "Autor": "Anthony Burgess",
+      "Publisher": "Aleph",
+      "Year": "2004/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Misery",
+      "Subtitle": "Louca Obsessão",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Mistborn: Nascidos da Bruma",
+      "Subtitle": "O Império Final",
+      "Autor": "Brandon Sanderson",
+      "Publisher": "LeYa Brasil",
+      "Year": "2014/1ª",
+      "ReadYear": "2015"
+    },
+    {
+      "Title": "Mortal Engines",
+      "Subtitle": "Mortal Engines",
+      "Autor": "Philip Reeve",
+      "Publisher": " Novo Século",
+      "Year": "2011/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Caçador de Pipas",
+      "Subtitle": "O Caçador de Pipas",
+      "Autor": "Khaled Hosseini",
+      "Publisher": "Nova Fronteira",
+      "Year": "2005/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "O Chamado do Cuco",
+      "Subtitle": "Cormoran Strike",
+      "Autor": "Robert Galbraith",
+      "Publisher": "Rocco",
+      "Year": "2013/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Clássico Guia de Estratégia",
+      "Subtitle": "O Livro dos 5 Anéis",
+      "Autor": "Myamoto Musashi",
+      "Publisher": "Hunter Books",
+      "Year": "2011/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Código Da Vinci",
+      "Subtitle": "O Código Da Vinci",
+      "Autor": "Dan Brown",
+      "Publisher": "Arqueiro",
+      "Year": "2012/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Colecionador de Lágrimas",
+      "Subtitle": "Holocausto Nunca Mais",
+      "Autor": "Augusto Cury",
+      "Publisher": "Planeta do Brasil",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "O Corretor",
+      "Subtitle": "O Corretor",
+      "Autor": "John Grisham",
+      "Publisher": "Rocco",
+      "Year": "2005/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "O Diário de um Mago",
+      "Subtitle": "O Diário de um Mago",
+      "Autor": "Paulo Coelho",
+      "Publisher": "Rocco",
+      "Year": "1992/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "O Guia dos Curiosos",
+      "Subtitle": "Invenções",
+      "Autor": "Marcelo Duarte",
+      "Publisher": "Panda Books",
+      "Year": "2007/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Guia dos Mochileiros das Galáxias",
+      "Subtitle": "Não Entre em Pânico",
+      "Autor": "Douglas Adams",
+      "Publisher": "Arqueiro",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "O Guia dos Mochileiros das Galáxias",
+      "Subtitle": "A Vida",
+      "Autor": " O Universo e Tudo Mais",
+      "Publisher": "Douglas Adams",
+      "Year": "Arqueiro",
+      "ReadYear": "2010/1ª"
+    },
+    {
+      "Title": "O Guia dos Mochileiros das Galáxias",
+      "Subtitle": "O Restaurante no Fim do Mundo",
+      "Autor": "Douglas Adams",
+      "Publisher": "Arqueiro",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "O Guia dos Mochileiros das Galáxias",
+      "Subtitle": "Praticamente Inofensiva",
+      "Autor": "Douglas Adams",
+      "Publisher": "Arqueiro",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "O Guia dos Mochileiros das Galáxias",
+      "Subtitle": "Até Mais",
+      "Autor": " E Obrigado Pelos Peixes!",
+      "Publisher": "Douglas Adams",
+      "Year": "Arqueiro",
+      "ReadYear": "2010/1ª"
+    },
+    {
+      "Title": "O Hobbit",
+      "Subtitle": "O Hobbit",
+      "Autor": "J. R. R. Tolkien",
+      "Publisher": "WMF",
+      "Year": "2011/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "O Iluminado",
+      "Subtitle": "O Iluminado",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2012/1ª",
+      "ReadYear": "2015"
+    },
+    {
+      "Title": "O Iluminado",
+      "Subtitle": "Doutor Sono",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Livro de Ouro da Mitologia",
+      "Subtitle": "Histórias de Deuses e Heróis",
+      "Autor": "Thomas Bulfinch",
+      "Publisher": "Ediouro",
+      "Year": "2011/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Livro dos Cinco Anéis",
+      "Subtitle": "Gorin no Sho",
+      "Autor": "Miyamoto Musashi",
+      "Publisher": "Hunter Books",
+      "Year": "2011/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Mistério da Estrela",
+      "Subtitle": "Stardust",
+      "Autor": "Neil Gaiman",
+      "Publisher": "Rocco",
+      "Year": "2008/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Mundo do Exterminador",
+      "Subtitle": "O Jogo do Exterminador",
+      "Autor": "Orson Scott Card...",
+      "Publisher": "Intrínseca",
+      "Year": "2013/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Oceano no Fim do Caminho",
+      "Subtitle": "O Oceano no Fim do Caminho",
+      "Autor": "Neil Gaiman",
+      "Publisher": "Intrínseca",
+      "Year": "2013/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Pequeno Príncipe",
+      "Subtitle": "O Pequeno Príncipe",
+      "Autor": "Antoine de Saint-Exupéry",
+      "Publisher": "Agir",
+      "Year": "2013/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Principe ",
+      "Subtitle": "O Principe",
+      "Autor": "Nicolau Maquiavel",
+      "Publisher": "Hunter Books",
+      "Year": "2011/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Rei das Fraudes",
+      "Subtitle": "O Rei das Fraudes",
+      "Autor": "John Grisham",
+      "Publisher": "Rocco",
+      "Year": "2003/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Semeador de Ideias",
+      "Subtitle": "O Semeador de Ideias ",
+      "Autor": "Augusto Cury",
+      "Publisher": "Academia",
+      "Year": "2010/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "O Senhor dos Anéis",
+      "Subtitle": "Volume Único - Capa flexível do filme",
+      "Autor": "J. R. R. Tolkien",
+      "Publisher": "Martins Fontes",
+      "Year": "2003/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "O Silmarillion",
+      "Subtitle": "O Silmarillion",
+      "Autor": "J. R. R. Tolkien",
+      "Publisher": "WMF",
+      "Year": "2011/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "O Símbolo Perdido",
+      "Subtitle": "O Símbolo Perdido",
+      "Autor": "Dan Brown",
+      "Publisher": "Sextante",
+      "Year": "2009/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "O Vendedor de Sonhos",
+      "Subtitle": "O Chamado",
+      "Autor": "Augusto Cury",
+      "Publisher": "Academia",
+      "Year": "2008/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "O Vendedor de Sonhos",
+      "Subtitle": "E a Revolução dos Anônimos",
+      "Autor": "Augusto Cury",
+      "Publisher": "Academia",
+      "Year": "2009/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "O Vento Pela Fechadura",
+      "Subtitle": "Uma História de A Torre Negra",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2013/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Olimpo em Guerra",
+      "Subtitle": "Pegassus e o Fogo do Olimpo",
+      "Autor": "Kate O'Hearn",
+      "Publisher": "LeYa Brasil",
+      "Year": "2011/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Os Goonies",
+      "Subtitle": "Os Goonies",
+      "Autor": "Steven Spielberg",
+      "Publisher": "Darkside",
+      "Year": "2012/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Os Herois do Olimpo",
+      "Subtitle": "O Filho de Netuno",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2012/1ª",
+      "ReadYear": "2012"
+    },
+    {
+      "Title": "Os Herois do Olimpo",
+      "Subtitle": "O Heroi Perdido",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Os Herois do Olimpo",
+      "Subtitle": "A Marca de Atena",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2013/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Os Herois do Olimpo",
+      "Subtitle": "A Casa de Hades",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2013/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Os Instrumentos Mortais",
+      "Subtitle": "Cidade dos Anjos Caídos",
+      "Autor": "Cassandra Clare",
+      "Publisher": "Galera Record",
+      "Year": "2012/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Os Instrumentos Mortais",
+      "Subtitle": "Cidade das Cinzas",
+      "Autor": "Cassandra Clare",
+      "Publisher": "Galera Record",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Os Instrumentos Mortais",
+      "Subtitle": "Cidade dos Ossos",
+      "Autor": "Cassandra Clare",
+      "Publisher": "Galera Record",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Os Instrumentos Mortais",
+      "Subtitle": "Cidade de Vidro",
+      "Autor": "Cassandra Clare",
+      "Publisher": "Galera Record",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Os Pilares da Terra",
+      "Subtitle": "Os Pilares da Terra",
+      "Autor": "Ken Follett",
+      "Publisher": "Rocco",
+      "Year": "2012/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Os Próprios Deuses",
+      "Subtitle": "Os Próprios Deuses",
+      "Autor": "Isaac Asimov",
+      "Publisher": "Aleph",
+      "Year": "2010/1ª",
+      "ReadYear": "2014"
+    },
+    {
+      "Title": "Percy Jackson & os Olimpianos",
+      "Subtitle": "O Mar de Monstros",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2009/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Percy Jackson & os Olimpianos",
+      "Subtitle": "A Maldição do Titã",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2009/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Percy Jackson & os Olimpianos",
+      "Subtitle": "Os Arquivos de Semideus",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Percy Jackson & os Olimpianos",
+      "Subtitle": "A Batalha do Labirinto",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Percy Jackson & os Olimpianos",
+      "Subtitle": "O Último Olimpiano",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2010/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Percy Jackson & os Olimpianos",
+      "Subtitle": "O Ladrão de Raios ",
+      "Autor": "Rick Riodan",
+      "Publisher": "Intrínseca",
+      "Year": "2008/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Pesadelos e Paisagens Noturnas - 1",
+      "Subtitle": "Pesadelos e Paisagens Noturnas - 1",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2013/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Pesadelos e Paisagens Noturnas - 2",
+      "Subtitle": "Pesadelos e Paisagens Noturnas - 2",
+      "Autor": "Stephen King",
+      "Publisher": "Suma das Letras",
+      "Year": "2013/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "Subtitle": "Pride and Prejudice",
+      "Autor": "Jane Austen",
+      "Publisher": "Wordsworth ",
+      "Year": "1993/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Sinal e Ruído",
+      "Subtitle": "Sinal e Ruído",
+      "Autor": "Neil Gaiman",
+      "Publisher": "Conrad",
+      "Year": "2011/1ª",
+      "ReadYear": "2011"
+    },
+    {
+      "Title": "Star Wars",
+      "Subtitle": "A Trilogia - Special",
+      "Autor": "James Kahn",
+      "Publisher": "DarkSide Books",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "The Lost World and Other Stories",
+      "Subtitle": "The Lost World and Other Stories",
+      "Autor": "S. Arthur Conan Doyl",
+      "Publisher": "Wordsworth ",
+      "Year": "2002/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "The Man in the Iron Mask",
+      "Subtitle": "The Man in the Iron Mask",
+      "Autor": "Alexandre Dumas",
+      "Publisher": "Wordsworth ",
+      "Year": "2002/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "The Mysterious Island",
+      "Subtitle": "The Mysterious Island",
+      "Autor": "Jules Verne",
+      "Publisher": "Wordsworth ",
+      "Year": "2010/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "The Three Musketeers",
+      "Subtitle": "The Three Musketeers",
+      "Autor": "Alexandre Dumas",
+      "Publisher": "Wordsworth ",
+      "Year": "2001/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Trilogia do Mago Negro ",
+      "Subtitle": "O Clã dos Magos",
+      "Autor": "Trudi Canavan",
+      "Publisher": "Novo Conceito",
+      "Year": "2012/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Trilogia do Mago Negro ",
+      "Subtitle": "A Aprendiz",
+      "Autor": "Trudi Canavan",
+      "Publisher": "Novo Conceito",
+      "Year": "",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Trilogia do Mago Negro ",
+      "Subtitle": "O Lorde Supremo",
+      "Autor": "Trudi Canavan",
+      "Publisher": "Novo Conceito",
+      "Year": "2013/1ª",
+      "ReadYear": "2013"
+    },
+    {
+      "Title": "Trilogia dos Espinhos",
+      "Subtitle": "Prince of Thorns",
+      "Autor": "Mark Lawrence",
+      "Publisher": "DarkSide Books",
+      "Year": "2014/2ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Trilogia Thrawn - 1",
+      "Subtitle": "Herdeiro do Império",
+      "Autor": "Timothy Zahn",
+      "Publisher": "Aleph",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Trilogia dos Espinhos",
+      "Subtitle": "king of Thorns",
+      "Autor": "Mark Lawrence",
+      "Publisher": "DarkSide Books",
+      "Year": "2014/1ª",
+      "ReadYear": ""
+    },
+    {
+      "Title": "Uncharted",
+      "Subtitle": "O Quarto Labirinto",
+      "Autor": "Christopher Golden",
+      "Publisher": "Benvirá",
+      "Year": "2012/1ª",
+      "ReadYear": ""
+    }
+  ]
+}

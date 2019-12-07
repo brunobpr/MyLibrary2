@@ -2,42 +2,44 @@
 <html>
 
 <head>
-	<link rel='stylesheet' href='/stylesheets/style.css' />
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>All Books</title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>All Books</title>
 </head>
 
 <body style="margin:0px; padding:0px; width:100%; background-color: black;">
-	<% include templates/header ; %>
-	<div class="container">
-		<h1 style="position:relative; color: white; text-align: center;">My Library</h1>
-		<div class="row">
-			<div class="input-field col s12">
-				<a href="/new_book"
-					class="light-blue darken-4 waves-effect waves-light btn"><i class="material-icons left">library_add</i>New
-					book</a>
-				<a href="/update"
-					class="light-blue darken-4 waves-effect waves-light btn"><i class="material-icons left">edit</i>Update
-					library</a>
-			</div>
+<% include templates/header ; %>
+<div class="container">
+    <h1 style="position:relative; color: white; text-align: center;">My Library</h1>
+    <div class="row">
+        <div class="input-field col s12">
+            <a href="/new_book"
+               class="light-blue darken-4 waves-effect waves-light btn"><i class="material-icons left">library_add</i>New
+                book</a>
+            <a href="/update"
+               class="light-blue darken-4 waves-effect waves-light btn"><i class="material-icons left">edit</i>Update
+                library</a>
+        </div>
 
-		</div>
-		<ul class="collection">
-			<% data.books.forEach(function (book){%>
-            <!--I was working to make this picture dinamic using Google Book API, but Google has a limit of requests per minute-->
-            <li class="collection-item avatar z-depth-1">
-				<img src="https://img.icons8.com/metro/1600/book.png" alt="" class="circle">
-				<span class="title"><%= book.Title %></span>
-				<p><%= book.Subtitle %><br>
+    </div>
+    <ul class="collection">
+        <% data.books.forEach(function (book){ %>
+            <!--I was working to make this picture dynamic using Google Book API, but Google has a limit of requests per minute-->
+        <li class="collection-item avatar z-depth-1">
+            <img src="https://img.icons8.com/metro/1600/book.png" alt="" class="circle">
+            <span class="title"><%= book.Title %></span>
+            <p><%= book.Subtitle %><br>
                 <%= book.Autor %>
-            </p><%if(book.ReadYear == ""){}
-                else{ %><a class="secondary-content"><i class="material-icons green-text text-darken-4">
-                done</i></a>
-					<% }});%>
-			</li>
-		</ul>
-	</div>
+            </p>
+            <% if(book.ReadYear == ""){
+            }
+            else{ %><a class="secondary-content"><i class="material-icons green-text text-darken-4">
+                    done</i></a>
+            <% }}); %>
+        </li>
+    </ul>
+</div>
 </body>
 
 </html>
