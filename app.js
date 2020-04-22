@@ -2,17 +2,20 @@
  * @author Bruno Pereira Ribeiro - 2017138
  */
 
-
-const createError = require('http-errors');
+const loger = require("morgan");
+const cors = require("cors");
 const express = require('express');
-const path = require('path');
 const http = require('http');
-const app = express();
-const fs = require('fs');
-const port = (process.env.PORT || '3000');
-const server = http.createServer(app);
-const {check, validationResult} = require('express-validator');
-const expAutoSan = require('express-autosanitizer');
+const mongoose = require('mongoose');
+const bodyParser = require("body-parser");
+
+var app = express();
+var port = 3000;
+
+
+
+app.use(bodyParser.json());
+app.use(require('./routes'));
 
 /**
  * Routes to each pages
