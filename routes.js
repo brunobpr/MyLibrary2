@@ -1,8 +1,10 @@
 var express = require('express'),
 router = express.Router(),
-userCtrl = require('./book-controller');
+bookCtrl = require('./book-controller');
 
-router.get('/', (req, res) => res.send('Hello World!'));
+router.get('/', bookCtrl.getBooks);
+router.post('/update', bookCtrl.updateBook);
+router.post('/delete', bookCtrl.deleteBook);
 
 module.exports.UPLOAD_PATH = 'uploads';
 

@@ -16,7 +16,6 @@ exports.getBooks = function(req, res) {
     if (err) {
       res.status(400).json(err); 
     } 
-    console.log(books)
     res.render('books', {     
         data: books,
     });
@@ -25,7 +24,9 @@ exports.getBooks = function(req, res) {
 };
 
 exports.updateBook = function(req, res) {
-  Book.findOneAndUpdate({_id: req.body.id}, req.body, {new: true},function (err, book) {
+    const id = req.body.id;
+    console.log(req.body);
+  Book.findOneAndUpdate({_id: id}, req.body , {new: true},function (err, book) {
     if (err) {
       res.status(400).json(err);
     }

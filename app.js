@@ -11,22 +11,29 @@ const bodyParser = require("body-parser");
 const path = require('path');
 require('dotenv').config();
 
+
 var app = express();
 var port = process.env.PORT || 3000;
-var booksCtrl = require('./book-controller');
-
-app.use(logger('dev'));
-app.use(bodyParser.json());
-app.use(require('./routes'));
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
+app.use(bodyParser.json());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.urlencoded({extended: true}));
+
+
+
+var booksCtrl = require('./book-controller');
+
+
+
+app.use(require('./routes'));
+
 app.post('/books', booksCtrl.createBook);
 app.get('/books', booksCtrl.getBooks);
-app.delete('/books/:id', booksCtrl.deleteBook);
-app.put('/books/:id', booksCtrl.updateBook);
+app.get('/delete', booksCtrl.deleteBook);
+app.get('/update', booksCtrl.updateBook);
+
 app.listen(port, function(err){
     console.log("Listening on Port: " + port)
 });
