@@ -41,9 +41,9 @@
     M.AutoInit();
 </script>
 <div class="container" style="background-color: white;">
-    <h1 style="position:relative; color: white; text-align: center;">Update My Libray</h1>
-    <p style="position:relative; color: white;">Click on the item you want to update.</p>
-    <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
+    <h1 style="position:relative; color: white; text-align: center;">Welcome to My Library</h1>
+
+    <a class="waves-effect waves-light btn modal-trigger light-blue darken-4" href="#modal1">Add a New Book</a>
 
   <!-- Modal Structure -->
   <div id="modal1" class="modal">
@@ -106,24 +106,26 @@
         </p>
         <div id="year" style="visibility: hidden;" class="row" value="false">
             <div class="input-field col s12">
-                <input placeholder="Eg. 2019" name="read_year" type="text" class="validate" pattern="[0-9]{1,4}">
+                <input placeholder="Eg. 2019" name="ReadYear" type="text" class="validate" pattern="[0-9]{1,4}">
                 <label for="read_year">When?</label>
                 <span class="helper-text" data-error="Please match with the format given." data-success="Valid"></span>
             </div>
         </div>
-        <button class="btn waves-effect waves-light" type="submit" name="post">Submit
+        <button class="btn waves-effect waves-light" type="submit" name="post">Register
             <i class="material-icons right">send</i>
         </button>
     </form>
 </div>
+
     </div>
   </div>
+      <p style="position:relative; color: white;">Click on the item you want to update or delete.</p>
     <!-- This is a collapsible menu, by clicking in which item will open up a form to edit it. Pure beauty. I know-->
     <ul class="collapsible" style="position:relative; background-color: white;">
         <%
         data.forEach(function (book){ %>
             <li>
-                <div class="collapsible-header"><i class="material-icons">edit</i>  <%= book.Title %> |
+                <div class="collapsible-header"><i class="material-icons">local_library</i>  <%= book.Title %> |
                     <%= book.Subtitle %> by <%= book.Autor %></div>
                 <div class="collapsible-body">
                     <form class="col s12" enctype="application/json" action="/update" method="POST">

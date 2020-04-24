@@ -6,8 +6,7 @@ exports.createBook = function(req, res) {
         if (err) { 
             res.status(400).json(err);
         }
-
-        res.json(book); 
+    res.redirect('back');   
 });
 };
 
