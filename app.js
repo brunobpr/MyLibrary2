@@ -13,7 +13,7 @@ require('dotenv').config();
 
 
 var app = express();
-var port = process.env.PORT || 3000;
+var port = (process.env.PORT || 3000);
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 app.use(bodyParser.json());
@@ -29,8 +29,8 @@ var booksCtrl = require('./book-controller');
 
 app.use(require('./routes'));
 
-app.post('/books', booksCtrl.createBook);
-app.get('/books', booksCtrl.getBooks);
+app.post('/', booksCtrl.createBook);
+app.get('/', booksCtrl.getBooks);
 app.get('/delete', booksCtrl.deleteBook);
 app.get('/update', booksCtrl.updateBook);
 

@@ -1,6 +1,6 @@
 {
   "name": "mylibrary",
-  "version": "1",
+  "version": "0.0.1",
   "description": "CA2",
   "main": "app.js",
   "scripts": {
