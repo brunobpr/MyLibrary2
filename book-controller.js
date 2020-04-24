@@ -25,7 +25,6 @@ exports.getBooks = function(req, res) {
 
 exports.updateBook = function(req, res) {
     const id = req.body.id;
-    console.log(req.body);
   Book.findOneAndUpdate({_id: id}, req.body , {new: true},function (err, book) {
     if (err) {
       res.status(400).json(err);
@@ -35,10 +34,11 @@ exports.updateBook = function(req, res) {
 };
 
 exports.deleteBook = function(req, res) {
-  Book.findByIdAndRemove(req.params.Title, function (err, Book) {
+  const id = req.body.id;
+  Book.findByIdAndRemove(id, function (err, Book) {
     if (err) {
       res.status(400).json(err);
     } 
-    res.json(book);
+    res.redirect('back');
   }); 
 };

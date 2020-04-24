@@ -121,7 +121,7 @@
                         </button>
                     </form>
                     <!--Another form to the delele button, it only considers the position of the item and uses it as an ID-->
-                    <form class="col s12" enctype="application/json" action="/delete/book" method="POST">
+                    <form class="col s12" enctype="application/json" action="/delete" method="POST">
                         <input type="hidden" name="id" value="<%= book._id %>">
                         <button onclick="M.toast({html: 'Book deleted!'})" class="btn waves-effect waves-light"
                                 type="submit" name="post" style="margin-top: -65px; margin-left: 150px;">Delete
