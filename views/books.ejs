@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <!-- Compiled and minified JavaScript from Materialize -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Update Library List</title>
+    <title>My Library - Bruno Ribeiro 2017138</title>
 </head>
 
 <body style="margin:0px; padding:0px; width:100%; background-color: black;">
@@ -23,15 +23,11 @@
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
             <ul id="nav-mobile" class="left hide-on-med-and-down" style="margin-left: 0px;">
                 <li><a href="/">Home</a></li>
-                <li><a href="/fav">Favourite Books</a></li>
-                <li><a href="/library">Full Library</a></li>
             </ul>
         </div>
     </nav>
     <ul class="sidenav" id="mobile-demo">
         <li><a href="/">Home</a></li>
-        <li><a href="/fav">Favourite Books</a></li>
-        <li><a href="/library">Full Library</a></li>
     </ul>
     <!-- https://pxhere.com/zh/photo/1205380 -->
     <img src="https://c.pxhere.com/photos/a5/56/book_darkness_book_in_the_dark_black_and_white_nikon-1205380.jpg!d"
@@ -47,6 +43,81 @@
 <div class="container" style="background-color: white;">
     <h1 style="position:relative; color: white; text-align: center;">Update My Libray</h1>
     <p style="position:relative; color: white;">Click on the item you want to update.</p>
+    <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a>
+
+  <!-- Modal Structure -->
+  <div id="modal1" class="modal">
+    <div class="modal-content">
+      <div style="position:relative; background-color: white; text-align: center; padding: 50px" class="container">
+    <h3 style="position:relative; text-align: center;">Register a New Book</h3>
+    <form class="col s12" enctype="application/json" action="/" method="POST">
+        <div class="row">
+            <div class="input-field col s12">
+                <input placeholder="Eg. The Broken Code" name="Title" type="text" class="validate" required="required"
+                       pattern="[a-zA-Z0-9 ]{1,50}">
+                <label for="title">Title *</label>
+                <span class="helper-text"
+                      data-error="This is a mandatory field. It can only contain letters and numbers."
+                      data-success="Valid"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <input placeholder="Eg. A nightmare of an IT student" name="Subtitle" type="text" class="validate"
+                       pattern="[a-zA-Z0-9 ]{1,50}">
+                <label for="subtitle">Subtitle</label>
+                <span class="helper-text" data-error="It can only contain letters and numbers."
+                      data-success="Valid"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <input placeholder="Eg. Bruno Ribeiro" name="Autor" type="text" class="validate" required="required"
+                       pattern="[A-Za-z ]{1,50}">
+                <label for="author">Author *</label>
+                <span class="helper-text" data-error="This is a mandatory field. It can only contain letters."
+                      data-success="Valid"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <input placeholder="Eg. CCT College Books" name="Publisher" type="text" class="validate"
+                       required="required" pattern="[A-Za-z0-9 ]{1,50}">
+                <label for="publisher">Publisher *</label>
+                <span class="helper-text"
+                      data-error="This is a mandatory field.  It can only contain letters and numbers."
+                      data-success="Valid"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <input placeholder="Eg. 2019/2ª" name="Year" type="text" class="validate" required="required"
+                       pattern="[0-9/ª]{1,8}">
+                <label for="year_edition">Edition *</label>
+                <span class="helper-text" data-error="This is a mandatory field. Please match with the format given."
+                      data-success="Valid"></span>
+            </div>
+        </div>
+        <p>
+            <label>
+                <input type="checkbox" id="checked" value="yes" onclick="javascript:unhide()"/>
+                <span>Already read it?</span>
+            </label>
+        </p>
+        <div id="year" style="visibility: hidden;" class="row" value="false">
+            <div class="input-field col s12">
+                <input placeholder="Eg. 2019" name="read_year" type="text" class="validate" pattern="[0-9]{1,4}">
+                <label for="read_year">When?</label>
+                <span class="helper-text" data-error="Please match with the format given." data-success="Valid"></span>
+            </div>
+        </div>
+        <button class="btn waves-effect waves-light" type="submit" name="post">Submit
+            <i class="material-icons right">send</i>
+        </button>
+    </form>
+</div>
+    </div>
+  </div>
     <!-- This is a collapsible menu, by clicking in which item will open up a form to edit it. Pure beauty. I know-->
     <ul class="collapsible" style="position:relative; background-color: white;">
         <%
@@ -137,6 +208,17 @@
 <script>
     // Initialising the Materialize CSS
     M.AutoInit();
+</script>
+<script type="text/javascript">
+    //This function will make visible the read year input when the checkbox is checked...
+    //If the user didnt read the book, there is no need to enter the year
+    function unhide() {
+        if (document.getElementById('checked').checked) {
+            document.getElementById('year').style.visibility = 'visible';
+        } else {
+            document.getElementById('year').style.visibility = 'hidden';
+        }
+    }
 </script>
 </body>
 

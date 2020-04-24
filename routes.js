@@ -5,6 +5,7 @@ bookCtrl = require('./book-controller');
 router.get('/', bookCtrl.getBooks);
 router.post('/update', bookCtrl.updateBook);
 router.post('/delete', bookCtrl.deleteBook);
+router.post('/', bookCtrl.createBook);
 
 module.exports.UPLOAD_PATH = 'uploads';
 
