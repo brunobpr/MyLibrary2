@@ -1,4 +1,7 @@
-//Create a new MongoDB schema object 
+// Code written by Bruno Ribeiro based on Mikhail Timofeev lecturers at CCT Dublin 
+
+
+//Create a new MongoDB schema object
 var Book = require('../models/book');
 
 // The CRUD function starts here

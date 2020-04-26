@@ -1,3 +1,4 @@
+// Code written by Bruno Ribeiro based on Mikhail Timofeev lecturers at CCT Dublin 
 var mongoose = require('mongoose');
 
 // This the model of a Book on MongoDB

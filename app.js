@@ -1,5 +1,6 @@
 /**
  * @author Bruno Pereira Ribeiro - 2017138
+ * // Code written based on Mikhail Timofeev lecturers at CCT Dublin 
  * API built using the Express framework
  */
 

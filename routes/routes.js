@@ -1,3 +1,4 @@
+// Code written by Bruno Ribeiro based on Mikhail Timofeev lecturers at CCT Dublin 
 // Creating a express api
 var express = require('express'),
     // Define router as express routes
