@@ -30,13 +30,6 @@ var booksCtrl = require('./controllers/book-controller');
 // Given access to the routes
 app.use(require('./routes/routes'));
 
-//Defining the routes to create, read, update and delete
-//Each of them will have a different function (functions are stored on book-controller)
-app.post('/', booksCtrl.createBook);
-app.get('/', booksCtrl.getBooks);
-app.get('/delete', booksCtrl.deleteBook);
-app.get('/update', booksCtrl.updateBook);
-
 // Listening to port
 app.listen(port, function (err) {
     console.log("Listening on Port: " + port)
