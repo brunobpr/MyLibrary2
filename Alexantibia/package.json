@@ -1,0 +1,28 @@
+{
+  "name": "alexantibia",
+  "version": "1.0.0",
+  "description": "A Rest API to interact with the www.tibia.com website and make its public data available in JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelus20/Alexantibia.git"
+  },
+  "keywords": [
+    "JSON",
+    "tibia",
+    "REST",
+    "API"
+  ],
+  "author": "Felipe Mantovani, Bruno Ribeiro, Leopoldo Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelus20/Alexantibia/issues"
+  },
+  "homepage": "https://github.com/marcelus20/Alexantibia#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
